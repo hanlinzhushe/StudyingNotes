@@ -38,6 +38,10 @@
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
+* 神经网络
+  * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
+* AI资源
+  * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
