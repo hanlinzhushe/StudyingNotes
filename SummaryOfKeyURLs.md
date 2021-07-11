@@ -48,6 +48,11 @@
   * 
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
+  * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
+* 论文&代码
+  * [PapersWithCode](https://paperswithcode.com)<br>
+  * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
+  * [机器之心](https://www.jiqizhixin.com/sota/ "hanlinzhushe@163.com 17302179439")<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
