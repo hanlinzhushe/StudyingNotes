@@ -30,7 +30,7 @@
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
   * [VsCode](https://code.visualstudio.com/)<br>
   * [EricIde](https://eric-ide.python-projects.org/)<br>
-  * [Pyqt](https://riverbankcomputing.com/software/pyqt/downloads/)<br>
+  * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
