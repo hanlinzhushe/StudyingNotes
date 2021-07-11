@@ -13,6 +13,8 @@
 ## 文献查阅
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
+* 学术资源
+  * [Arxiv](https://arxiv.org/)
 ## 通信类
 * 网址汇总
   * [ShareTechnote](http://www.sharetechnote.com)<br>
