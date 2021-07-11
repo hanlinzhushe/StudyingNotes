@@ -10,13 +10,17 @@
 【插图】![标注信息]\(URL "悬停显示")；<br>
 【插图超链接】第一行输入：[![标注信息]]\(图片超链接URL)，第二行输入：[标注信息]\(图片URL "悬停显示")；<br>
 # 相关技术网址汇总
+## 文献查阅
+* 百科类
+  * [维基百科](https://en.wikipedia.org/wiki/) <br>
 ## 通信类
 * 网址汇总
   * [ShareTechnote](http://www.sharetechnote.com)<br>
   * [3GPP协议](http://www.3GPP.org/ftp/Specs/archive/)<br>
   * [3GPP官网](http://www.3gpp.org/)<br>
+  * [EETOP](http://bbs.eetop.cn/task.php)<br>
 * 经典书籍
   * [Introduction to MIMO communications](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Introduction+to+MIMO+communications+pdf&btnG=)<br>
 ## 编程类
 * 语言类
- * [C++](http://www.cplusplus.com)<br>
+  * [C++](http://www.cplusplus.com)<br>
