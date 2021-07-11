@@ -28,5 +28,9 @@
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
+  * [VsCode](https://code.visualstudio.com/)<br>
+  * [EricIde](https://eric-ide.python-projects.org/)<br>
+  * [Pyqt](https://riverbankcomputing.com/software/pyqt/downloads/)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
+  * [Scikit Learn](https://scikit-learn.org/stable/)<br>
