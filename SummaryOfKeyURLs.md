@@ -38,3 +38,9 @@
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
+## 电子书籍
+* 国内
+  * [CSDN](https://www.csdn.net/)<br>
+  * [Epubit](https://www.epubit.com)<br>
+* 国外
+  * [12](https://www.gen.lib.rus.ec/)<br>
