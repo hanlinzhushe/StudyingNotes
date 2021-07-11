@@ -40,11 +40,14 @@
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
+* 知识图谱
+  * [Tinymind](https://www.tinymind.cn/articles/1200)<br>
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
   * [Epubit](https://www.epubit.com)<br>
+  * [BroadView](https://www.broadview.com.cn/)<br>
 * 国外
   * [Libgen](http://libgen.rs/)<br>
