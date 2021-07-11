@@ -18,7 +18,7 @@
   * [ShareTechnote](http://www.sharetechnote.com)<br>
   * [3GPP协议](http://www.3GPP.org/ftp/Specs/archive/)<br>
   * [3GPP官网](http://www.3gpp.org/)<br>
-  * [EETOP](http://bbs.eetop.cn/task.php)<br>
+  * [EETOP](http://bbs.eetop.cn)<br>
 * 经典书籍
   * [Introduction to MIMO communications](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Introduction+to+MIMO+communications+pdf&btnG=)<br>
 ## 编程类
