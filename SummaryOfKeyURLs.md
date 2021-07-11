@@ -33,4 +33,6 @@
   * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
+  * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
+  * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
