@@ -24,3 +24,9 @@
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
+## AI
+* 平台工具类
+  * [Anaconda download](https://www.anaconda.com/download)<br>
+  * [Conda Docs](https://conda.io/en/latest/index.html)<br>
+* 框架类
+  * [Tensorflow](https://tensorflow.google.cn/) <br>
