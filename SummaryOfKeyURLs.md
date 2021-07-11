@@ -47,8 +47,8 @@
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
-* 知识图谱
-  * 
+* NLP
+  * [Quantumstat](https://notebooks.quantumstat.com/)<br>
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
   * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
