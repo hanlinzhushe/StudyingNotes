@@ -23,6 +23,7 @@
   * [EETOP](http://bbs.eetop.cn)<br>
 * 经典书籍
   * [Introduction to MIMO communications](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Introduction+to+MIMO+communications+pdf&btnG=)<br>
+  * [Probability distribution relationships](https://www.researchgate.net/publication/227377637_Probability_distribution_relationships)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
@@ -41,7 +42,7 @@
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
 * 知识图谱
-  * [Tinymind](https://www.tinymind.cn/articles/1200)<br>
+  * 
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
 ## 电子书籍
