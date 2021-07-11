@@ -43,4 +43,4 @@
   * [CSDN](https://www.csdn.net/)<br>
   * [Epubit](https://www.epubit.com)<br>
 * 国外
-  * [12](https://www.gen.lib.rus.ec/)<br>
+  * [Libgen](http://libgen.rs/)<br>
