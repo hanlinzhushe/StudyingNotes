@@ -15,6 +15,9 @@
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
 * 学术资源
   * [Arxiv](https://arxiv.org/)
+* 论文插件
+  * 【chrome论文插件】Find Code for Research Papers - CatalyzeX <br>
+  * 【Chrome论文代码资源插件】Scholar with Code <br>
 ## 通信类
 * 网址汇总
   * [ShareTechnote](http://www.sharetechnote.com)<br>
