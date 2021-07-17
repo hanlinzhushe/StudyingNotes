@@ -59,5 +59,6 @@
   * [Ovoice](https://github.com/0voice/campus_recruitmen_questions "5000道校招") <br>
 * Social Recruitment
   * [小浩算法](https://github.com/geekxh/hello-algorithm "BAT面试") <br>
+  * [袁厨算法](https://github.com/chefyuan/algorithm-base) <br>
   * [LeetCode动画](https://github.com/MisterBooo/LeetCodeAnimation "动画讲解") <br>
   * [技术面Notes](https://github.com/CyC2018/CS-Notes "综合技术面") <br>
