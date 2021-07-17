@@ -35,6 +35,7 @@
   * [VsCode](https://code.visualstudio.com/)<br>
   * [EricIde](https://eric-ide.python-projects.org/)<br>
   * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
+  * [AutoML算法](https://github.com/huawei-noah/vega)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
