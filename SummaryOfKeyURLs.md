@@ -22,6 +22,9 @@
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
+## 自动驾驶类
+* 全栈类
+  * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
 ## AI
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
