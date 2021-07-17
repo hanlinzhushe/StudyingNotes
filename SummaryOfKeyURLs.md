@@ -26,6 +26,9 @@
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
 ## AI
+* 综述类
+  * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
+  * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
