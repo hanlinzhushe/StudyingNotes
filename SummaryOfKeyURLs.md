@@ -29,13 +29,14 @@
 * 综述类
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
+  * [搜索推荐广告](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
   * [VsCode](https://code.visualstudio.com/)<br>
   * [EricIde](https://eric-ide.python-projects.org/)<br>
   * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
-  * [AutoML算法](https://github.com/huawei-noah/vega)<br>
+  * [AutoML算法Vega](https://github.com/huawei-noah/vega)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
