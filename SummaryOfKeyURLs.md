@@ -55,5 +55,7 @@
 * 国外
   * [Libgen](http://libgen.rs/)<br>
 ## Job Interview
-* Campus recruitment
+* Campus Recruitment
   * [Ovoice](https://github.com/0voice/campus_recruitmen_questions "5000道校招") <br>
+* Social Recruitment
+  * [小浩算法](https://github.com/geekxh/hello-algorithm "BAT面试") <br>
