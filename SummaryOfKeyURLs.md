@@ -50,6 +50,7 @@
   * [Quantumstat](https://notebooks.quantumstat.com/)<br>
   * [NLP Progress](https://nlpprogress.com/english/intent_detection_slot_filling.html)<br>
   * [自然语言理解](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)<br>
+  * [中文NLP数据集](https://github.com/InsaneLife/ChineseNLPCorpus)<br>
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
   * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
