@@ -19,6 +19,8 @@
 * 经典书籍
   * [Introduction to MIMO communications](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Introduction+to+MIMO+communications+pdf&btnG=)<br>
   * [Probability distribution relationships](https://www.researchgate.net/publication/227377637_Probability_distribution_relationships)<br>
+* 代码
+  * [SC-FDMA-Python](https://github.com/jarandacu/SC-FDMA-python)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
