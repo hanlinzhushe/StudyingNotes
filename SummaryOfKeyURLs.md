@@ -49,6 +49,7 @@
   * [Transformers for NLP](https://github.com/huggingface/transformers)<br>
   * [Sequence to Sequence - Facebook](https://github.com/pytorch/fairseq)<br>
   * [Darknet-CNN](https://github.com/pjreddie/darknet)<br>
+  * [Deep Forest](https://github.com/LAMDA-NJU/Deep-Forest)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
