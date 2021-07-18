@@ -41,6 +41,7 @@
   * [EricIde](https://eric-ide.python-projects.org/)<br>
   * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
   * [AutoML算法Vega](https://github.com/huawei-noah/vega)<br>
+  * [OpenMMLab Detection](https://github.com/open-mmlab/mmdetection)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
