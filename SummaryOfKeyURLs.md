@@ -90,6 +90,7 @@
   * [BroadView](https://www.broadview.com.cn/)<br>
 * 国外
   * [Libgen](http://libgen.rs/)<br>
+  * [Springer](https://link.springer.com/search/page/1?facet-language=%22En%22&facet-content-type=%22Book%22&showAll=false)<br>
 ## Job Interview
 * Campus Recruitment
   * [Ovoice](https://github.com/0voice/campus_recruitmen_questions "5000道校招") <br>
