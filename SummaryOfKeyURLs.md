@@ -36,6 +36,7 @@
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
   * [搜索推荐广告](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)<br>
   * [Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)<br>
+  * [压缩感知](https://github.com/ngcthuong/Reproducible-Deep-Compressive-Sensing)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
