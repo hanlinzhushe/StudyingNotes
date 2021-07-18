@@ -60,6 +60,7 @@
   * [机器之心](https://www.jiqizhixin.com/sota "hanlinzhushe@163.com 17302179439")<br>
 * AI书籍
   * [【电子书】神经网络与深度学习-邱锡鹏](https://github.com/nndl/nndl.github.io)<br>
+  * [【代码】统计学习方法-李航](https://github.com/Dod-o/Statistical-Learning-Method_Code)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
