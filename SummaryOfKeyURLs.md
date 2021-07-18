@@ -21,6 +21,7 @@
   * [Probability distribution relationships](https://www.researchgate.net/publication/227377637_Probability_distribution_relationships)<br>
 * 代码
   * [SC-FDMA-Python](https://github.com/jarandacu/SC-FDMA-python)<br>
+  * [Pruned-DFT-s-FBMC_Python](https://github.com/rnissel/Pruned-DFT-s-FBMC_Python)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
