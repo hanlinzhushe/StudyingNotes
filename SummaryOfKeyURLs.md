@@ -62,6 +62,7 @@
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
   * [百度飞浆](https://github.com/PaddlePaddle/Paddle)<br>
+  * [微众区块链WeCross](https://github.com/WeBankBlockchain/WeCross)<br>
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
 * NLP
