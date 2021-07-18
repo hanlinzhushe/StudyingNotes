@@ -65,6 +65,7 @@
   * [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/dongdonghy/Detection-PyTorch-Notebook)<br>
   * [【电子书】机器学习宝典](https://github.com/yuanxiaosc/Machine-Learning-Book)<br>
   * [【电子书】机器学习（周志华）公式推导解析](https://github.com/datawhalechina/pumpkin-book)<br>
+  * [【代码】Machine Learning in Action](https://github.com/pbharrin/machinelearninginaction)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
