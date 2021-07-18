@@ -53,6 +53,7 @@
   * [Deep Forest](https://github.com/LAMDA-NJU/Deep-Forest)<br>
   * [MXNet人脸识别](https://github.com/deepinsight/insightface)<br>
   * [PyTorch人脸识别](https://github.com/JDAI-CV/FaceX-Zoo)<br>
+  * [ML库集合](https://github.com/ml-tooling/best-of-ml-python)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
