@@ -66,6 +66,9 @@
   * [【电子书】机器学习宝典](https://github.com/yuanxiaosc/Machine-Learning-Book)<br>
   * [【电子书】机器学习（周志华）公式推导解析](https://github.com/datawhalechina/pumpkin-book)<br>
   * [【代码】Machine Learning in Action](https://github.com/pbharrin/machinelearninginaction)<br>
+  * [【电子书】动手学深度学习-李沐](https://zh.d2l.ai/)<br>
+  * [【代码1】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
+  * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
