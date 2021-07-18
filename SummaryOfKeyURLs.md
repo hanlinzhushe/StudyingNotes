@@ -63,6 +63,7 @@
   * [【代码1】统计学习方法-李航](https://github.com/Dod-o/Statistical-Learning-Method_Code)<br>
   * [【代码2】统计学习方法-李航](https://github.com/fengdu78/lihang-code)<br>
   * [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/dongdonghy/Detection-PyTorch-Notebook)<br>
+  * [【电子书】机器学习宝典](https://github.com/yuanxiaosc/Machine-Learning-Book)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
