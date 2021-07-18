@@ -58,6 +58,8 @@
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
   * [机器之心](https://www.jiqizhixin.com/sota "hanlinzhushe@163.com 17302179439")<br>
+* AI书籍
+  * [【电子书】神经网络与深度学习-邱锡鹏](https://github.com/nndl/nndl.github.io)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
