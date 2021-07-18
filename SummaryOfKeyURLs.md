@@ -29,6 +29,8 @@
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
 ## AI
+* AI学习路线
+  * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
 * 综述类
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
