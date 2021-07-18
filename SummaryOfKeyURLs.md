@@ -65,6 +65,7 @@
   * [微众区块链WeCross](https://github.com/WeBankBlockchain/WeCross)<br>
   * [微众配置管理数据库](https://github.com/WeBankPartners/we-cmdb)<br>
   * [Pytorch教程](https://github.com/yunjey/pytorch-tutorial)<br>
+  * [联邦学习FATE](https://github.com/FederatedAI/FATE)<br>
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
 * NLP
