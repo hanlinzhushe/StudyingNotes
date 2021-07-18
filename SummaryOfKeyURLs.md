@@ -31,6 +31,7 @@
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
+  * [数据科学路线](https://github.com/therealsreehari/Learn-Data-Science-For-Free)<br>
 * 综述类
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
