@@ -47,6 +47,7 @@
   * [文献总结](https://github.com/xcfcode/Summarization-Papers)<br>
   * [Neural Question Generation](https://github.com/teacherpeterpan/Question-Generation-Paper-List)<br>
   * [深度学习文献阅读路线](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
+  * [应用机器学习](https://github.com/eugeneyan/applied-ml)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
