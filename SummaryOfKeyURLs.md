@@ -37,6 +37,7 @@
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
   * [搜索推荐广告](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)<br>
+  * [推荐广告](https://github.com/imsheridan/DeepRec)<br>
   * [Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)<br>
   * [压缩感知](https://github.com/ngcthuong/Reproducible-Deep-Compressive-Sensing)<br>
   * [DNN压缩&加速](https://github.com/MingSun-Tse/EfficientDNNs)<br>
