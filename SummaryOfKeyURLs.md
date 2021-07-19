@@ -104,6 +104,7 @@
   * [【代码1】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
   * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
+  * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
