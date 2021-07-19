@@ -48,6 +48,7 @@
   * [Neural Question Generation](https://github.com/teacherpeterpan/Question-Generation-Paper-List)<br>
   * [深度学习文献阅读路线](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
   * [应用机器学习](https://github.com/eugeneyan/applied-ml)<br>
+  * [预训练语言模型](https://github.com/thunlp/PLMpapers)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
