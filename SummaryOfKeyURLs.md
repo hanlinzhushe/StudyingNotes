@@ -59,6 +59,7 @@
   * [PyTorch人脸识别](https://github.com/JDAI-CV/FaceX-Zoo)<br>
   * [ML库集合](https://github.com/ml-tooling/best-of-ml-python)<br>
   * [百度NLP](https://github.com/baidu/lac)<br>
+  * [Pytorch机器视觉库](https://github.com/kornia/kornia)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
