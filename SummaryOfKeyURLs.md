@@ -94,6 +94,7 @@
   * [【电子书】动手学深度学习-李沐](https://zh.d2l.ai/)<br>
   * [【代码1】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
   * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
+  * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
