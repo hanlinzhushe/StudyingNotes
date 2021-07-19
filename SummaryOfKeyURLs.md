@@ -64,6 +64,7 @@
   * [百度NLP](https://github.com/baidu/lac)<br>
   * [Pytorch机器视觉库](https://github.com/kornia/kornia)<br>
   * [Gluon NLP](https://github.com/dmlc/gluon-nlp)<br>
+  * [NLP Transfer](https://github.com/alibaba/EasyTransfer)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
