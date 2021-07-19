@@ -46,6 +46,7 @@
   * [Speech Separation](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)<br>
   * [文献总结](https://github.com/xcfcode/Summarization-Papers)<br>
   * [Neural Question Generation](https://github.com/teacherpeterpan/Question-Generation-Paper-List)<br>
+  * [深度学习文献阅读路线](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
 * 平台工具类
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
