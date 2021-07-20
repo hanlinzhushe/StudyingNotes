@@ -113,6 +113,7 @@
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
   * [【代码】Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
+  * [【代码】Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
