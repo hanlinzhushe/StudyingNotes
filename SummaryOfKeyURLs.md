@@ -60,6 +60,7 @@
   * [Transformers for NLP](https://github.com/huggingface/transformers)<br>
   * [Sequence to Sequence - Facebook](https://github.com/pytorch/fairseq)<br>
   * [Prophet - Facebook时间序列](https://github.com/facebook/prophet)<br>
+  * [TsLearn - 时间序列](https://github.com/tslearn-team/tslearn)<br>
   * [Darknet-CNN](https://github.com/pjreddie/darknet)<br>
   * [Deep Forest](https://github.com/LAMDA-NJU/Deep-Forest)<br>
   * [MXNet人脸识别](https://github.com/deepinsight/insightface)<br>
