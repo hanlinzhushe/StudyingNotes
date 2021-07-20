@@ -87,7 +87,8 @@
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
 * NLP
-  * [Quantumstat](https://notebooks.quantumstat.com/)<br>
+  * [Notebooks - Quantumstat](https://notebooks.quantumstat.com/)<br>
+  * [Datasets - Quantumstat](https://index.quantumstat.com/)<br>
   * [NLP Progress](https://nlpprogress.com/english/intent_detection_slot_filling.html)<br>
   * [自然语言理解](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)<br>
   * [中文NLP数据集](https://github.com/InsaneLife/ChineseNLPCorpus)<br>
