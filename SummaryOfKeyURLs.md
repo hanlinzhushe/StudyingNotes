@@ -93,8 +93,7 @@
 * AI资源
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
   * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
-  * [Introduction to DL-MIT 6.S191](https://github.com/aamini/introtodeeplearning)<br>
-  * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
+  * [Introduction to DL-MIT 6.S191](https://github.com/aamini/introtodeeplearning)<br>  
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
@@ -113,6 +112,7 @@
   * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
+  * [【代码】Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
