@@ -121,6 +121,7 @@
   * [【代码】Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)<br>
   * [【代码】The Elements of Statistical Learning" Notebooks](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks)<br>
   * [【电子书&代码】TensorFlow深度学习](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br>
+  * [【电子书】深度学习](https://github.com/exacity/deeplearningbook-chinese)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
