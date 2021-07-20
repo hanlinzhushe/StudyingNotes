@@ -94,6 +94,7 @@
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
   * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
   * [Introduction to DL-MIT 6.S191](https://github.com/aamini/introtodeeplearning)<br>
+  * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
