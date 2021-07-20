@@ -22,6 +22,7 @@
 * 代码
   * [SC-FDMA-Python](https://github.com/jarandacu/SC-FDMA-python)<br>
   * [Pruned-DFT-s-FBMC_Python](https://github.com/rnissel/Pruned-DFT-s-FBMC_Python)<br>
+  * [Digital Communication with Python](https://github.com/veeresht/CommPy)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
