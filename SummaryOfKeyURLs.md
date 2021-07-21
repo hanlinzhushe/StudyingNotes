@@ -144,3 +144,6 @@
   * [全栈架构师](https://github.com/frank-lam/fullstack-tutorial)<br>
   * [LeetCode101](https://github.com/changgyhub/leetcode_101)<br>
   * [技术面题目汇总](https://github.com/sladesha/Reflection_Summary)<br>
+## Quantitative finance
+* 平台工具类
+  * [FQuantToolBox](https://github.com/faruto/FQuantToolBox)<br> 
