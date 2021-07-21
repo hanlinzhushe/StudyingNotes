@@ -100,6 +100,7 @@
   * [周志华-南大](https://cs.nju.edu.cn/zhouzh/)<br>
   * [45分钟理解深度学习-科大](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)<br>
   * [Introduction to DL-MIT 6.S191](https://github.com/aamini/introtodeeplearning)<br>
+  * [Deep Learning - MIT](https://github.com/janishar/mit-deep-learning-book-pdf)<br>
   * [知识图谱-东南大学](https://github.com/npubird/KnowledgeGraphCourse)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
