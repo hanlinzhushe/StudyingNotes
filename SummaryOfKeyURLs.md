@@ -103,6 +103,7 @@
   * [Introduction to DL-MIT 6.S191](https://github.com/aamini/introtodeeplearning)<br>
   * [Deep Learning - MIT](https://github.com/janishar/mit-deep-learning-book-pdf)<br>
   * [知识图谱-东南大学](https://github.com/npubird/KnowledgeGraphCourse)<br>
+  * [机器学习-吴恩达](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
