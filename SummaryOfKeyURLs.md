@@ -147,3 +147,4 @@
 ## Quantitative finance
 * 平台工具类
   * [FQuantToolBox](https://github.com/faruto/FQuantToolBox)<br> 
+  * [Tushare_MATLAB_FSDK](https://github.com/faruto/Tushare_MATLAB_FSDK)<br>
