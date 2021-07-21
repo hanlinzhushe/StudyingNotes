@@ -79,6 +79,7 @@
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
   * [Tensorflow中文教程](https://github.com/jikexueyuanwiki/tensorflow-zh)<br>
+  * [Tensorflow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)<br>
   * [Scikit Learn](https://scikit-learn.org/stable/)<br>
   * [Scikit Learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)<br>
   * [百度飞浆](https://github.com/PaddlePaddle/Paddle)<br>
