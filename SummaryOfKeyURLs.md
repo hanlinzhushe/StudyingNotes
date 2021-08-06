@@ -133,4 +133,5 @@
   * [LeetCode101](https://github.com/changgyhub/leetcode_101)<br>
   * [LeetCode151](https://github.com/soulmachine/leetcode)<br>
   * [技术面题目汇总](https://github.com/sladesha/Reflection_Summary)<br>
+  * [算法理论基础知识](https://github.com/sladesha/Reflection_Summary)<br>
   * [白面机器学习](https://github.com/Relph1119/QuestForMachineLearning-Camp)<br>
