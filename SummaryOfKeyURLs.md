@@ -7,7 +7,7 @@
 * 论文插件
   * 【chrome论文插件】Find Code for Research Papers - CatalyzeX <br>
   * 【Chrome论文代码资源插件】Scholar with Code <br>
-  * 【Image to Latex】(https://github.com/kingyiusuen/image-to-latex) <br>
+  * [Image to Latex](https://github.com/kingyiusuen/image-to-latex) <br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
