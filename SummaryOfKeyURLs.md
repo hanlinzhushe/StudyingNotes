@@ -119,6 +119,7 @@
   * [【电子书】深度学习](https://github.com/exacity/deeplearningbook-chinese)<br>
   * [【电子书】机器学习训练秘籍](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br>
   * [【代码】Deep Learning Python](https://github.com/MichalDanielDobrzanski/DeepLearningPython)<br>
+  * [【代码】Pattern Recognition and Machine Learning](https://github.com/gerdm/prml)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
