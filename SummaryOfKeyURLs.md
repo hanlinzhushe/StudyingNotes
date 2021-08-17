@@ -14,6 +14,7 @@
 ## 自动驾驶类
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
+  * [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
