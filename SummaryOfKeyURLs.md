@@ -125,6 +125,7 @@
   * [CSDN](https://www.csdn.net/)<br>
   * [Epubit](https://www.epubit.com)<br>
   * [BroadView](https://www.broadview.com.cn/)<br>
+  * [华章图书配套资源](http://www.hzbook.com/)<br>
 * 国外
   * [Libgen](http://libgen.rs/)<br>
   * [Springer](https://link.springer.com/search/page/1?facet-language=%22En%22&facet-content-type=%22Book%22&showAll=false)<br>
