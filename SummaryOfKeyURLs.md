@@ -76,6 +76,8 @@
   * [Pytorch教程](https://github.com/yunjey/pytorch-tutorial)<br>
   * [Pytorch官方教程](https://pytorch.org/tutorials/)<br>
   * [Pytorch中文教程](https://pytorch123.com/)<br>
+  * [Fast.AI官方库](https://docs.fast.ai/)<br>
+  * [Fast.AI中文教程](https://fastai.woshicver.com/)<br>
   * [联邦学习FATE](https://github.com/FederatedAI/FATE)<br>
   * [MindSpore](https://github.com/mindspore-ai/mindspore)<br>
 * 神经网络
