@@ -99,6 +99,7 @@
   * [Deep Learning (with PyTorch)](https://github.com/Atcold/pytorch-Deep-Learning)<br>
 * 公开课
   * [Yann Lecun - 纽约大学《深度学习PyTorch》课程视频及PPT](https://atcold.github.io/pytorch-Deep-Learning/)<br>
+  * [国内外经典AI视频课程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxNDgzNDg3NQ==&action=getalbum&album_id=1355864287616794625&scene=173&from_msgid=2247495366&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=63030522&lang=zh_CN&ascene=1&fontgear=2)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
