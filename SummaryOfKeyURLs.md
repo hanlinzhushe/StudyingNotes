@@ -97,6 +97,8 @@
   * [知识图谱-东南大学](https://github.com/npubird/KnowledgeGraphCourse)<br>
   * [机器学习-吴恩达](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br>
   * [Deep Learning (with PyTorch)](https://github.com/Atcold/pytorch-Deep-Learning)<br>
+* 公开课
+  * [Yann Lecun - 纽约大学《深度学习PyTorch》课程视频及PPT](https://atcold.github.io/pytorch-Deep-Learning/)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
