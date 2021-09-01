@@ -77,6 +77,7 @@
   * [微众区块链WeCross](https://github.com/WeBankBlockchain/WeCross)<br>
   * [微众配置管理数据库](https://github.com/WeBankPartners/we-cmdb)<br>
   * [Pytorch教程](https://github.com/yunjey/pytorch-tutorial)<br>
+  * [Pytorch论坛](https://discuss.pytorch.org/)<br>
   * [Pytorch官方教程](https://pytorch.org/tutorials/)<br>
   * [Pytorch中文教程](https://pytorch123.com/)<br>
   * [Pytorch中文手册](https://pytorchbook.cn/)<br>
