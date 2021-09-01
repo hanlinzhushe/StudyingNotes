@@ -123,6 +123,7 @@
   * [【电子书】动手学深度学习-李沐](https://zh.d2l.ai/)<br>
   * [【代码1】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
   * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
+  * [【.py代码】动手学深度学习-李沐](https://github.com/Miraclelucy/dive_into_deep_learning)<br>
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
   * [【代码】Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
