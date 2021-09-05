@@ -19,6 +19,7 @@
 * 机器视觉
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
+  * [使用自动编码器进行图像去噪](https://mp.weixin.qq.com/s/NvCblfGBH--z_enNKSKgOg)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
