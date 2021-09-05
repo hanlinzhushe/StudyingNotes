@@ -20,6 +20,7 @@
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
   * [使用自动编码器进行图像去噪](https://mp.weixin.qq.com/s/NvCblfGBH--z_enNKSKgOg)<br>
+  * [Yolox核心基础完整讲解](https://mp.weixin.qq.com/s/lBT0X_kQ56VKi6ikwHImMQ)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
