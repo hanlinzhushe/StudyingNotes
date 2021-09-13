@@ -17,9 +17,10 @@
 * 参数初始化：Gaussian/Xavier/Kaiming
 * 参数优化：SGD/Adagrad/Adam
 ## 计算机视觉——图像分类
-* CNN提特征设计
-* output决策层设计
-* output groundtruth设计
+* 技术细节
+  * CNN提特征设计
+  * output决策层设计
+  * output groundtruth设计
 * 经典模型
   * DenseNet
   * MobileNet
