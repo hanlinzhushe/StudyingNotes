@@ -37,10 +37,14 @@
   * 检测模型评价指标
 * 经典模型
   * YOLO V1及Loss
-  * YOLO V2
-  * YOLO V3
+  * YOLO V2：Anchor引入
+  * YOLO V3：多尺度引入
   * FPN
   * YOLO V4
+  * RetinaNet：Focal Loss
+  * Anchor Free
+  * Anchor Free：CenterNet
+  * Anchor Free：FCos
 ## 计算机视觉——两阶段目标检测
 * 经典模型
   * RCNN（NMS系列）
@@ -50,6 +54,8 @@
 * 技术细节
   * 像素分类
   * 反卷积与上采样
+  * 转置卷积
+  * 膨胀卷积
   * 跳级结构
   * 分割模型评价指标
 * 经典模型
