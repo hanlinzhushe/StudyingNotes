@@ -21,3 +21,6 @@
 * output决策层设计
 * output groundtruth设计
 * 经典模型
+  * DenseNet
+  * MobileNet
+  * EfficientNet
