@@ -24,3 +24,38 @@
   * DenseNet
   * MobileNet
   * EfficientNet
+## 计算机视觉——单阶段目标检测
+* 技术细节
+  * 先验框与统计框设计
+  * 对预测边框的约束
+  * Passthrough方法
+  * 检测模型评价指标
+* 经典模型
+  * YOLO V1及Loss
+  * YOLO V2
+  * YOLO V3
+  * FPN
+  * YOLO V4
+## 计算机视觉——两阶段目标检测
+* 经典模型
+  * RCNN（NMS系列）
+  * Fast RCNN（ROI Pooling系列）
+  * Faster RCNN（RPN网络和Anchor）
+## 计算机视觉——图像分割
+* 技术细节
+  * 像素分类
+  * 反卷积与上采样
+  * 跳级结构
+  * 分割模型评价指标
+* 经典模型
+  * UNet
+  * ENet
+  * Mask RCNN
+  * TensorMask
+## 计算机视觉——目标跟踪
+* 经典目标跟踪方法
+  * 帧差法
+  * TLD算法
+  * KCF算法
+* 深度学习目标跟踪算法
+  * siamese系列
