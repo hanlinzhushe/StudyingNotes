@@ -22,9 +22,13 @@
   * output决策层设计
   * output groundtruth设计
 * 经典模型
+  * ResNet
   * DenseNet
   * MobileNet
   * EfficientNet
+## 计算机视觉——图像生成
+* 经典模型
+  * GAN
 ## 计算机视觉——单阶段目标检测
 * 技术细节
   * 先验框与统计框设计
