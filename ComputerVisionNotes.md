@@ -55,6 +55,7 @@
     [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
   * Faster RCNN（RPN网络和Anchor）
+    [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 ## 计算机视觉——图像分割
 * 技术细节
   * 像素分类
