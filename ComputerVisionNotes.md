@@ -67,6 +67,7 @@
   * 分割模型评价指标
 * 经典模型
   * UNet
+    [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
   * ENet
   * Mask RCNN
   * TensorMask
