@@ -27,7 +27,9 @@
 * 经典模型
   * ResNet：
     [论文](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-  * DenseNet
+  * DenseNet：
+    [论文](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
+    [代码](https://github.com/liuzhuang13/DenseNet?utm_source=catalyzex.com)
   * MobileNet
   * EfficientNet
 ## 计算机视觉——图像生成
