@@ -39,7 +39,7 @@
   * Passthrough方法
   * 检测模型评价指标
 * 经典模型
-  * YOLO V1及Loss
+  * YOLO V1及Loss：
     [论文](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
   * YOLO V2：Anchor引入
   * YOLO V3：多尺度引入
@@ -52,10 +52,10 @@
 ## 计算机视觉——两阶段目标检测
 * 经典模型
   * RCNN（NMS系列）
-  * Fast RCNN（ROI Pooling系列）
+  * Fast RCNN（ROI Pooling系列）：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
     [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
-  * Faster RCNN（RPN网络和Anchor）
+  * Faster RCNN（RPN网络和Anchor）：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 ## 计算机视觉——图像分割
 * 技术细节
@@ -66,7 +66,7 @@
   * 跳级结构
   * 分割模型评价指标
 * 经典模型
-  * UNet
+  * UNet：
     [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
   * ENet
   * Mask RCNN
