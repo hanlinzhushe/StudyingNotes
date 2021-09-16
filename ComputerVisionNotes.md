@@ -25,7 +25,8 @@
   * output决策层设计
   * output groundtruth设计
 * 经典模型
-  * ResNet
+  * ResNet：
+    [论文](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
   * DenseNet
   * MobileNet
   * EfficientNet
