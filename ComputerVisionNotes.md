@@ -52,6 +52,7 @@
 * 经典模型
   * RCNN（NMS系列）
   * Fast RCNN（ROI Pooling系列）
+  <[代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)<br>
   * Faster RCNN（RPN网络和Anchor）
 ## 计算机视觉——图像分割
 * 技术细节
