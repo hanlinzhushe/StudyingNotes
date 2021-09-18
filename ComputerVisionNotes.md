@@ -52,7 +52,7 @@
 * [ckllab-stanford](https://ckllab.stanford.edu/publications)<br>
 * [vision.stanford](http://vision.stanford.edu/)<br>
 * [李飞飞](http://vision.stanford.edu/)<br>
-* [Jingdong Wang](https://jingdongwang2017.github.io/)<br>
+* [Jingdong Wang 王井东](https://jingdongwang2017.github.io/)<br>
 * [陈皓](https://coolshell.cn/articles/5426.html)<br>
 * [雷霄骅](https://blog.csdn.net/leixiaohua1020)<br>
 * [google ai blog](https://ai.googleblog.com/)<br>
