@@ -136,7 +136,9 @@
   * UNet：
     [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
   * ENet
-  * Mask RCNN
+  * Mask RCNN：
+    [论文](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)<br>
+    [代码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com)<br>
   * TensorMask
 ## 计算机视觉——目标跟踪
 * 经典目标跟踪方法
