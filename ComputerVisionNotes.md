@@ -1,3 +1,8 @@
+# 计算机视觉成长资源地图
+## 计算机视觉——必看工具书
+* [pattern recognition and machine learning , Christopher Bishop]()<br>
+* [计算机视觉大牛-何恺明论文代码集](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=zh-CN&oi=ao)<br>
+
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
