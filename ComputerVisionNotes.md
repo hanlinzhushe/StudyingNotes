@@ -47,6 +47,20 @@
 * [北京邮电大学陈光老师](https://b23.tv/8njqVU)<br>
 * 微信公众号：CVer / 小小挖掘机 / 量子位/ 机器之心/我爱计算机视觉
 * 知乎：机器学习相关
+## 计算机视觉——技术大牛
+* [计算机视觉大牛Kaiming He](http://kaiminghe.com/)<br>
+* [](https://ckllab.stanford.edu/publications)<br>
+* [](http://vision.stanford.edu/)<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
 # ---------------------------------------------------------
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
