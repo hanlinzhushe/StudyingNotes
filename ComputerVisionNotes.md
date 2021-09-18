@@ -1,7 +1,16 @@
 # 计算机视觉成长资源地图
 ## 计算机视觉——必看工具书
 * pattern recognition and machine learning , Christopher Bishop<br>
-* [计算机视觉大牛-何恺明论文代码集](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=zh-CN&oi=ao)<br>
+* Machine Learning: A Probabilistic Perspective ，Murphy<br>
+* Deep Learning，Bengio<br>
+* GANs in Action, Jakub Langr and Vladimir Bok<br>
+* 《数字图像处理》第三版（ [美] 冈萨雷斯 ）<br>
+* 《计算机视觉——算法与应用》（ [美] Szelisk ）<br>
+* 《深度学习推荐系统》（王喆）<br>
+* [《机器学习》（周志华）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
+* [《统计学习方法》（李航）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
+* 《深度学习轻松学》（冯超）<br>
+* [《动手学深度学习》（李沐）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
 
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
