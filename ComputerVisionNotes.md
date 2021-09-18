@@ -116,7 +116,7 @@
   * Anchor Free
   * Anchor Free：CenterNet
   * Anchor Free：FCos
-  * SSD：
+  * SSD(Ssd: Single shot multibox detector)：
     [论文](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_2.pdf)
     [代码](https://github.com/weiliu89/caffe/tree/ssd?utm_source=catalyzex.com)
 ## 计算机视觉——两阶段目标检测
