@@ -31,7 +31,7 @@
 * [【detectron2】经典视觉框架，必看](https://github.com/facebookresearch/detectron2)<br>
 * [【openpose】人体姿态估计](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br>
 * [【chainer】从纯Python的视角勾勒出DNN框架的全貌](https://chainer.org/)<br>
-* [【pix2pixHD】思路清晰代码简洁，经典中的经典](ttps://github.com/NVIDIA/pix2pixHD)<br>
+* [【pix2pixHD】思路清晰代码简洁，经典中的经典](https://github.com/NVIDIA/pix2pixHD)<br>
 * [【stylegan】无监督风格生成开山之作](https://github.com/NVlabs/stylegan)<br>
 * [【StyleGAN2】生成模型以假乱真](https://github.com/NVlabs/stylegan2)<br>
 * [【SPADE】人人都是艺术家](https://github.com/NVlabs/SPADE)<br>
