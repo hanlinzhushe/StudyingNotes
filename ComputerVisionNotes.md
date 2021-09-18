@@ -89,9 +89,9 @@
   * output决策层设计
   * output groundtruth设计
 * 经典模型
-  * ResNet：
+  * ResNet(Deep Residual Learning for Image Recognition)：
     [论文](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-  * DenseNet：
+  * DenseNet(densely connected convolutional networks)：
     [论文](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
     [代码](https://github.com/liuzhuang13/DenseNet?utm_source=catalyzex.com)
   * MobileNet
@@ -125,7 +125,7 @@
   * Fast RCNN（ROI Pooling系列）Fast R-CNN：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
     [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
-  * Faster RCNN（RPN网络和Anchor）：
+  * Faster RCNN（RPN网络和Anchor）Faster r-cnn Towards real-time object detection with region proposal networks：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 ## 计算机视觉——图像分割
 * 技术细节
@@ -136,10 +136,10 @@
   * 跳级结构
   * 分割模型评价指标
 * 经典模型
-  * UNet：
+  * UNet(U-Net Convolutional Networks for Biomedical Image Segmentation)：
     [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
   * ENet
-  * Mask RCNN：
+  * Mask RCNN(Mask R-CNN)：
     [论文](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
     [代码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com)
   * TensorMask
