@@ -122,7 +122,7 @@
 ## 计算机视觉——两阶段目标检测
 * 经典模型
   * RCNN（NMS系列）
-  * Fast RCNN（ROI Pooling系列）：
+  * Fast RCNN（ROI Pooling系列）Fast R-CNN：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
     [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
   * Faster RCNN（RPN网络和Anchor）：
