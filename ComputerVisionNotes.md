@@ -48,19 +48,19 @@
 * 微信公众号：CVer / 小小挖掘机 / 量子位/ 机器之心/我爱计算机视觉
 * 知乎：机器学习相关
 ## 计算机视觉——技术大牛
-* [计算机视觉大牛Kaiming He](http://kaiminghe.com/)<br>
-* [](https://ckllab.stanford.edu/publications)<br>
-* [](http://vision.stanford.edu/)<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
+* [计算机视觉大牛Kaiming He 何恺明](http://kaiminghe.com/)<br>
+* [ckllab-stanford](https://ckllab.stanford.edu/publications)<br>
+* [vision.stanford](http://vision.stanford.edu/)<br>
+* [李飞飞](http://vision.stanford.edu/)<br>
+* [Jingdong Wang](https://jingdongwang2017.github.io/)<br>
+* [陈皓](https://coolshell.cn/articles/5426.html)<br>
+* [雷霄骅](https://blog.csdn.net/leixiaohua1020)<br>
+* [google ai blog](https://ai.googleblog.com/)<br>
+* [Song Han](https://songhan.mit.edu/)<br>
+* [知乎-吴恩达](https://www.zhihu.com/topic/20003150/hot)<br>
+* [知乎-李沐](https://www.zhihu.com/people/mli65/)<br>
+* [知乎-九老师](https://www.zhihu.com/people/nphard-79)<br>
+* [知乎-纳米酱](https://www.zhihu.com/people/lykquitphy)<br>
 # ---------------------------------------------------------
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
