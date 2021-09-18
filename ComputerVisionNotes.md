@@ -25,7 +25,7 @@
 * [【yolov3】高复用检测模型，效果好上手快](https://github.com/ultralytics/yolov3)<br>
 * [【DeepCTR】减少了推荐模型的入门门槛和模型搭建时间](https://github.com/shenweichen/DeepCTR)<br>
 * [【opencv】图片处理算法实现、工程实现](https://github.com/opencv/opencv)<br>
-* [【ngin】事实标准的高性能服务器，模块化设计，分层明晰](https://github.com/nginx/ngin)<br>
+* [【ngin】事实标准的高性能服务器，模块化设计，分层明晰](https://github.com/nginx/nginx)<br>
 * [【openmmlab】很有影响力的计算机视觉开源项目（分类、检测、追踪、3D）](https://github.com/open-mmlab)<br>
 * [【mmf】一套经典的多模态框架](https://github.com/facebookresearch/mmf)<br>
 * [【detectron2】经典视觉框架，必看](https://github.com/facebookresearch/detectron2)<br>
