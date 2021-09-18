@@ -35,6 +35,18 @@
 * [【stylegan】无监督风格生成开山之作](https://github.com/NVlabs/stylegan)<br>
 * [【StyleGAN2】生成模型以假乱真](https://github.com/NVlabs/stylegan2)<br>
 * [【SPADE】人人都是艺术家](https://github.com/NVlabs/SPADE)<br>
+## 计算机视觉——技术社区
+* [Reddit计算机视觉版块](https://www.reddit.com/r/computervision/)<br>
+* [ffmpeg](https://ffmpeg.org/ffmpeg-codecs.html#Codec-Options)<br>
+* [stack-overflow](https://stackoverflow.com/)<br>
+* [VALSE](http://valser.org/)<br>
+* [paperswithcode](https://paperswithcode.com/)<br>
+* [谷歌AI技术博客](https://ai.googleblog.com/)<br>
+* [开源中国](https://www.oschina.net/)<br>
+* [深度学习社区](http://www.caffecn.cn/)<br>
+* [北京邮电大学陈光老师](https://b23.tv/8njqVU)<br>
+* 微信公众号：CVer / 小小挖掘机 / 量子位/ 机器之心/我爱计算机视觉
+* 知乎：机器学习相关
 # ---------------------------------------------------------
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
