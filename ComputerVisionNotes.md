@@ -116,6 +116,8 @@
   * Anchor Free
   * Anchor Free：CenterNet
   * Anchor Free：FCos
+  * SSD：
+  * [论文](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_2.pdf)
 ## 计算机视觉——两阶段目标检测
 * 经典模型
   * RCNN（NMS系列）
