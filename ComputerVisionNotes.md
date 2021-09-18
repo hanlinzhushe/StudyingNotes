@@ -1,4 +1,4 @@
-# -----------------------------------------------------------------
+# ---------------------------------------------------------
 # 计算机视觉成长资源地图
 ## 计算机视觉——必看工具书
 * pattern recognition and machine learning , Christopher Bishop<br>
@@ -21,7 +21,7 @@
 * [【李宏毅】GAN课程](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)<br>
 * [【吴恩达】深度学习笔记](http://www.ai-start.com/dl2017/)<br>
 * [【李沐】深度学习课程](http://courses.d2l.ai/berkeley-stat-157/index.html)<br>
-# -----------------------------------------------------------------
+# ---------------------------------------------------------
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
