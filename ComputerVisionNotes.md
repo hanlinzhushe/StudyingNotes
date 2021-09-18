@@ -1,5 +1,5 @@
 # 计算机视觉成长资源地图
-# ---------------------------------------------------------------------------------
+# -----------------------------------------------------------------
 ## 计算机视觉——必看工具书
 * pattern recognition and machine learning , Christopher Bishop<br>
 * Machine Learning: A Probabilistic Perspective ，Murphy<br>
