@@ -12,7 +12,14 @@
 * 《深度学习轻松学》（冯超）<br>
 * [《动手学深度学习》（李沐）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
 * [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
-
+## 计算机视觉——课程视频
+* [【斯坦福】用于视觉识别的卷积神经网络](http://cs231n.stanford.edu/)<br>
+* [【斯坦福】人工智能时代的计算机图形学](http://cs348i.stanford.edu/)<br>
+* [【斯坦福-李飞飞】深度计算机视觉](https://b23.tv/SBhROm)<br>
+* [【MIT】深度学习概论](https://b23.tv/TIWOIo)<br>
+* [【李宏毅】GAN课程](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)<br>
+* [【吴恩达】深度学习笔记](http://www.ai-start.com/dl2017/)<br>
+* [【李沐】深度学习课程](http://courses.d2l.ai/berkeley-stat-157/index.html)<br>
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
