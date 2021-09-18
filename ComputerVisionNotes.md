@@ -11,6 +11,7 @@
 * [《统计学习方法》（李航）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
 * 《深度学习轻松学》（冯超）<br>
 * [《动手学深度学习》（李沐）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
+* [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
 
 # 计算机视觉BackBone
 ## 计算机视觉——路线大纲
