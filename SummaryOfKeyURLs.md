@@ -83,6 +83,7 @@
   * [Pytorch官方教程](https://pytorch.org/tutorials/)<br>
   * [Pytorch中文教程](https://pytorch123.com/)<br>
   * [Pytorch中文手册](https://pytorchbook.cn/)<br>
+  * [PyTorch handbook](https://github.com/zergtant/pytorch-handbook)<br>
   * [Pytorch入门教程](https://pytorchchina.com/)<br>
   * [Fast.AI官方库](https://docs.fast.ai/)<br>
   * [Fast.AI中文教程](https://fastai.woshicver.com/)<br>
