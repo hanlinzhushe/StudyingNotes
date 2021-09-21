@@ -21,6 +21,7 @@
 * [【李宏毅】GAN课程](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)<br>
 * [【吴恩达】深度学习笔记](http://www.ai-start.com/dl2017/)<br>
 * [【李沐】深度学习课程](http://courses.d2l.ai/berkeley-stat-157/index.html)<br>
+* [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
 ## 计算机视觉——经典开源项目
 * [【yolov3】高复用检测模型，效果好上手快](https://github.com/ultralytics/yolov3)<br>
 * [【DeepCTR】减少了推荐模型的入门门槛和模型搭建时间](https://github.com/shenweichen/DeepCTR)<br>
