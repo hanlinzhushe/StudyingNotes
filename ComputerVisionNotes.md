@@ -22,6 +22,7 @@
 * [【吴恩达】深度学习笔记](http://www.ai-start.com/dl2017/)<br>
 * [【李沐】深度学习课程](http://courses.d2l.ai/berkeley-stat-157/index.html)<br>
 * [【腾讯课堂】](https://ke.qq.com/user/index/index.html#/signup)<br>
+* [【CSDN公开课】](https://edu.csdn.net/course?channelType=2&cat1=5329&page=3)<br>
 ## 计算机视觉——经典开源项目
 * [【yolov3】高复用检测模型，效果好上手快](https://github.com/ultralytics/yolov3)<br>
 * [【DeepCTR】减少了推荐模型的入门门槛和模型搭建时间](https://github.com/shenweichen/DeepCTR)<br>
@@ -46,6 +47,7 @@
 * [开源中国](https://www.oschina.net/)<br>
 * [深度学习社区](http://www.caffecn.cn/)<br>
 * [北京邮电大学陈光老师](https://b23.tv/8njqVU)<br>
+* [博客园](https://www.cnblogs.com/)<br>
 * 微信公众号：CVer / 小小挖掘机 / 量子位/ 机器之心/我爱计算机视觉
 * 知乎：机器学习相关
 ## 计算机视觉——技术大牛
