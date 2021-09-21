@@ -112,6 +112,8 @@
   * [台大林智仁中文版-《深度学习优化方法》课程PPT](https://www.csie.ntu.edu.tw/~cjlin/courses/optdl2021/)<br>
   * [国内外经典AI视频课程--66个课程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxNDgzNDg3NQ==&action=getalbum&album_id=1355864287616794625&scene=173&from_msgid=2247495366&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=63030522&lang=zh_CN&ascene=1&fontgear=2)<br>
   * [名校免费AI视频课程--48个课程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxNDgzNDg3NQ==&action=getalbum&album_id=1672909078794141700&scene=173&from_msgid=2247495366&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=63030522&lang=zh_CN&ascene=1&fontgear=2)<br>
+  * [斯坦福-机器学习](https://www.coursera.org/learn/machine-learning)<br>
+  * [斯坦福-深度学习](https://www.coursera.org/specializations/deep-learning)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
