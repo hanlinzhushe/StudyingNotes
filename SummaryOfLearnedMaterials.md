@@ -13,4 +13,4 @@
 
 | 模块     | 章节                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
-| 机器学习 | XGBoost | []() | [Xgboost: A scalable tree boosting system](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785) | [官方代码](https://github.com/dmlc/xgboost) |
+| 机器学习 | XGBoost | [通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574)<br>123 | [Xgboost: A scalable tree boosting system](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785) | [官方代码](https://github.com/dmlc/xgboost) |
