@@ -116,6 +116,8 @@
     [代码](https://github.com/ultralytics/yolov3)
   * FPN
   * YOLO V4
+  * YOLO V5：
+    [代码](https://github.com/ultralytics/yolov5)
   * RetinaNet：Focal Loss
   * Anchor Free
   * Anchor Free：CenterNet
