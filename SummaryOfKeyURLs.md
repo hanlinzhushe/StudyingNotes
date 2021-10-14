@@ -1,4 +1,7 @@
 # 相关技术网址汇总
+## 便捷工具
+* 本地工具
+  * [Everything](https://github.com/stnkl/EverythingToolbar) <br>
 ## 文献查阅
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
