@@ -32,6 +32,7 @@
   * [AI专家路线](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)<br>
   * [机器学习学习路线](https://github.com/linxid/Machine_Learning_Study_Path)<br>
   * [算法理论基础知识应知应会](https://github.com/sladesha/Reflection_Summary)<br>
+  * [Start Machine Learning](https://github.com/louisfb01/start-machine-learning)<br>
 * 综述类
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
