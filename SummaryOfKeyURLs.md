@@ -2,6 +2,8 @@
 ## 便捷工具
 * 本地工具
   * [Everything](https://github.com/stnkl/EverythingToolbar) <br>
+* 公开课
+  * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
 ## 文献查阅
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
