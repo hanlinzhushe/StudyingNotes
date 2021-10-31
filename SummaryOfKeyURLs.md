@@ -56,6 +56,8 @@
   * [Pyqt](https://riverbankcomputing.com/software/pyqt/)<br>
   * [AutoML算法Vega](https://github.com/huawei-noah/vega)<br>
   * [OpenMMLab Detection](https://github.com/open-mmlab/mmdetection)<br>
+  * [Detectron-Facebook](https://github.com/facebookresearch/Detectron)<br>
+  * [Detectron2-Facebook](https://github.com/facebookresearch/detectron2)<br>
   * [Transformers for NLP](https://github.com/huggingface/transformers)<br>
   * [Sequence to Sequence - Facebook](https://github.com/pytorch/fairseq)<br>
   * [Prophet - Facebook时间序列](https://github.com/facebook/prophet)<br>
