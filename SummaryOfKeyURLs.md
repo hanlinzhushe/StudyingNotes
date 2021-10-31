@@ -118,6 +118,7 @@
   * [斯坦福-机器学习](https://www.coursera.org/learn/machine-learning)<br>
   * [斯坦福-深度学习](https://www.coursera.org/specializations/deep-learning)<br>
   * [深度学习论文精度-李沐](https://github.com/mli/paper-reading)<br>
+  * [Datawhale组队学习](https://github.com/datawhalechina/team-learning)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
