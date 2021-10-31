@@ -37,6 +37,8 @@
 * [【stylegan】无监督风格生成开山之作](https://github.com/NVlabs/stylegan)<br>
 * [【StyleGAN2】生成模型以假乱真](https://github.com/NVlabs/stylegan2)<br>
 * [【SPADE】人人都是艺术家](https://github.com/NVlabs/SPADE)<br>
+## 计算机视觉——实战小项目
+* [活体检测](https://github.com/ZJUTSong/Alive_Detect)<br>
 ## 计算机视觉——技术社区
 * [Reddit计算机视觉版块](https://www.reddit.com/r/computervision/)<br>
 * [ffmpeg](https://ffmpeg.org/ffmpeg-codecs.html#Codec-Options)<br>
