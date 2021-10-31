@@ -72,6 +72,7 @@
   * [量化压缩](https://github.com/quic/aimet)<br>
   * [HiPlot-高维数据](https://github.com/facebookresearch/hiplot)<br>
   * [图片风格转换](https://github.com/junyanz/CycleGAN)<br>
+  * [PCL点云库](https://github.com/PointCloudLibrary/pcl)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
