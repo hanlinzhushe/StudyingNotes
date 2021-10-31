@@ -113,6 +113,7 @@
   * [知识图谱-东南大学](https://github.com/npubird/KnowledgeGraphCourse)<br>
   * [机器学习-吴恩达](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br>
   * [Deep Learning (with PyTorch)](https://github.com/Atcold/pytorch-Deep-Learning)<br>
+  * [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)<br>
 * 公开课
   * [Yann Lecun - 纽约大学《深度学习PyTorch》课程视频及PPT](https://atcold.github.io/pytorch-Deep-Learning/)<br>
   * [台大林智仁中文版-《深度学习优化方法》课程视频](https://www.bilibili.com/video/BV1CB4y1F7kM)<br>
