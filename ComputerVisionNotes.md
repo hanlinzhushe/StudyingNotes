@@ -116,7 +116,8 @@
   * YOLO V3：多尺度引入（高复用检测模型，效果好上手快）
     [代码](https://github.com/ultralytics/yolov3)
   * FPN
-  * YOLO V4
+  * YOLO V4：
+    [代码](https://github.com/WongKinYiu/ScaledYOLOv4)
   * YOLO V5：
     [代码](https://github.com/ultralytics/yolov5)
   * RetinaNet：Focal Loss
