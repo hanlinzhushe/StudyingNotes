@@ -11,6 +11,7 @@
 * 学术资源
   * [Arxiv](https://arxiv.org/)
   * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)<br>
+  * [Daily Papers](https://papers.labml.ai/papers/daily)<br>
 * 论文插件
   * 【chrome论文插件】Find Code for Research Papers - CatalyzeX <br>
   * 【Chrome论文代码资源插件】Scholar with Code <br>
