@@ -81,11 +81,17 @@
 * 锐化、模糊
 * 形态学运算
 * 灰度直方图、直方图均衡化
-## 中级计算机视觉——图像描述
-* HOG特征
-* LBP特征
-* Haar-Like特征
-## 高级计算机视觉——CNN
+## 中级计算机视觉——传统图像分类
+* Feature提取：
+  * SIFT特征
+  * HOG特征
+  * GIST特征
+  * LBP特征
+  * Haar-Like特征
+* Encoding：Bag of visual words
+* Pooling：Spatial pyramid pooling
+* Classification：SVM
+## 高级计算机视觉——神经网络CNN等
 * ReLU、PReLU、Leaky ReLU
 * Batch Normalization
 * Dropout
