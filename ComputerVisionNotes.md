@@ -151,6 +151,8 @@
     [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
   * Faster RCNN（RPN网络和Anchor）Faster r-cnn Towards real-time object detection with region proposal networks：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+  * Feature Pyramid Networks + Faster RCNN
+  * Mask RCNN
 ## 计算机视觉——图像分割
 * 技术细节
   * 像素分类
