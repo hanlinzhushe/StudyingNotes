@@ -91,6 +91,7 @@
 * Encoding：Bag of visual words
 * Pooling：Spatial pyramid pooling
 * Classification：SVM
+* 传统目标检测算法之DPM
 ## 高级计算机视觉——神经网络CNN等
 * ReLU、PReLU、Leaky ReLU
 * Batch Normalization
