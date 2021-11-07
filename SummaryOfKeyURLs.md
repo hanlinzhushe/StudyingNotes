@@ -28,6 +28,7 @@
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
+  * [Linux命令大全（手册）](https://www.linuxcool.com/)<br>
 ## 自动驾驶类
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
