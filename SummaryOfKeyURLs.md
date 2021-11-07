@@ -7,6 +7,8 @@
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
   * [YouTube](https://www.youtube.com/)<br>
   * [机器之心知识站](https://app6ca5octe2206.h5.xiaoeknow.com/)<br>
+  * [慕课网](https://www.imooc.com/)<br>
+  * [中国大学MOOC](https://www.icourse163.org/)<br>
 * 博客资源
   * [掘金](https://juejin.cn/ai) <br>
   * [菜鸟教程](https://www.runoob.com/)<br>
