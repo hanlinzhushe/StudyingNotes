@@ -13,6 +13,7 @@
   * [掘金](https://juejin.cn/ai) <br>
   * [菜鸟教程](https://www.runoob.com/)<br>
   * [知乎](https://www.zhihu.com/)<br>
+  * [廖雪峰官方网站](https://www.liaoxuefeng.com/)<br>
 ## 文献查阅
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
