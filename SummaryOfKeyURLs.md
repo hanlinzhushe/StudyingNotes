@@ -174,7 +174,7 @@
   * [【电子书】机器学习训练秘籍](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br>
   * [【代码】Deep Learning Python](https://github.com/MichalDanielDobrzanski/DeepLearningPython)<br>
   * [【代码】Pattern Recognition and Machine Learning](https://github.com/gerdm/prml)<br>
-  * [【面向机器学习的特征工程】](https://github.com/apachecn/fe4ml-zh)<br>
+  * [【电子书】面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)<br>
 ## 电子书籍
 * 国内
   * [CSDN](https://www.csdn.net/)<br>
