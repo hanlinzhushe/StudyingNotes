@@ -98,6 +98,7 @@
   * [HiPlot-高维数据](https://github.com/facebookresearch/hiplot)<br>
   * [图片风格转换](https://github.com/junyanz/CycleGAN)<br>
   * [PCL点云库](https://github.com/PointCloudLibrary/pcl)<br>
+  * [Shap可视化工具](https://github.com/slundberg/shap)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
