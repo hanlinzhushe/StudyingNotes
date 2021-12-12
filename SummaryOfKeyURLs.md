@@ -121,6 +121,7 @@
   * [Fast.AI中文教程](https://fastai.woshicver.com/)<br>
   * [联邦学习FATE](https://github.com/FederatedAI/FATE)<br>
   * [MindSpore](https://github.com/mindspore-ai/mindspore)<br>
+  * [Caffe](https://github.com/BVLC/caffe)<br>
 * 神经网络
   * [神经网络类型](https://www.asimovinstitute.org/neural-network-zoo/) <br>
 * NLP
