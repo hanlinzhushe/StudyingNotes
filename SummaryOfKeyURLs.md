@@ -102,6 +102,7 @@
   * [TreeExplainer](https://github.com/suinleelab/treeexplainer-study)<br>
   * [eCharts浏览器图表和可视化数据库](https://github.com/apache/echarts)<br>
   * [Convolutional Neural Network画图脚本](https://github.com/gwding/draw_convnet)<br>
+  * [PlotNeuralNet神经网络画图](https://github.com/HarisIqbal88/PlotNeuralNet)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
