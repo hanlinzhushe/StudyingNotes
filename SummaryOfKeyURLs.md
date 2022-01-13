@@ -223,3 +223,4 @@
   * [2021_algorithm_intern_information](https://github.com/HarleysZhang/2021_algorithm_intern_information)<br>
   * [daily-interview](https://github.com/datawhalechina/daily-interview)<br>
   * [超级简历](https://www.wondercv.com/)<br>
+  * [极简简历](https://www.mingmen-tech.com/)<br>
