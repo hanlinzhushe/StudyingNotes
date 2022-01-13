@@ -36,6 +36,7 @@
   * [C++](http://www.cplusplus.com)<br>
   * [Linux命令大全（手册）](https://www.linuxcool.com/)<br>
   * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)<br>
+  * [Git菜鸟教程](http://www.runoob.com/git/git-tutorial.html)<br>
 ## 自动驾驶类
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
