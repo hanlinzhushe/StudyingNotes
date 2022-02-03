@@ -16,6 +16,7 @@
   * [菜鸟教程](https://www.runoob.com/)<br>
   * [知乎](https://www.zhihu.com/)<br>
   * [廖雪峰官方网站](https://www.liaoxuefeng.com/)<br>
+  * [简书](https://www.jianshu.com/techareas/intelligence)<br>
 ## 趣味项目
 * 语音类
   * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) <br>
