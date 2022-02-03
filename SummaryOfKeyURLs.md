@@ -1,4 +1,4 @@
-# 相关技术网址汇总
++++++++++++++# 相关技术网址汇总
 ## 便捷工具
 * 本地工具
   * [Everything](https://github.com/stnkl/EverythingToolbar) <br>
@@ -9,6 +9,7 @@
   * [机器之心知识站](https://app6ca5octe2206.h5.xiaoeknow.com/)<br>
   * [慕课网](https://www.imooc.com/)<br>
   * [中国大学MOOC](https://www.icourse163.org/)<br>
+  * [华为云开发者学堂](https://edu.huaweicloud.com/)<br>
 * 博客资源
   * [掘金](https://juejin.cn/ai) <br>
   * [菜鸟教程](https://www.runoob.com/)<br>
