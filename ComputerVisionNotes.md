@@ -39,6 +39,7 @@
 * [【StyleGAN2】生成模型以假乱真](https://github.com/NVlabs/stylegan2)<br>
 * [【SPADE】人人都是艺术家](https://github.com/NVlabs/SPADE)<br>
 * [【Apollo】百度阿波罗](https://github.com/ApolloAuto/apollo)<br>
+* [【PaddleClas】飞桨图像识别套件](https://github.com/PaddlePaddle/PaddleClas)<br>
 ## 计算机视觉——实战小项目
 * [活体检测](https://github.com/ZJUTSong/Alive_Detect)<br>
 * [自动驾驶](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)<br>
