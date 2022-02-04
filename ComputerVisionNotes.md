@@ -42,6 +42,7 @@
 * [【Apollo】阿波罗学习笔记](https://github.com/daohu527/dig-into-apollo)<br>
 * [【PaddleClas】飞桨图像识别套件](https://github.com/PaddlePaddle/PaddleClas)<br>
 * [【OpenPilot】Automated Lane Centering and Adaptive Cruise Control](https://github.com/commaai/openpilot)<br>
+* [【AirSim】自动驾驶仿真环境](https://github.com/microsoft/AirSim)<br>
 ## 计算机视觉——实战小项目
 * [活体检测](https://github.com/ZJUTSong/Alive_Detect)<br>
 * [自动驾驶](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)<br>
