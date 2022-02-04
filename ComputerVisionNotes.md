@@ -61,6 +61,7 @@
 * [深度学习社区](http://www.caffecn.cn/)<br>
 * [北京邮电大学陈光老师](https://b23.tv/8njqVU)<br>
 * [博客园](https://www.cnblogs.com/)<br>
+* [CV顶级实验室信息/工具/会议/实验室资源汇总](https://github.com/Sophia-11/Awesome-CV-Resources)<br>
 * 微信公众号：CVer / 小小挖掘机 / 量子位/ 机器之心/我爱计算机视觉
 * 知乎：机器学习相关
 ## 计算机视觉——技术大牛
