@@ -43,6 +43,7 @@
 * [【PaddleClas】飞桨图像识别套件](https://github.com/PaddlePaddle/PaddleClas)<br>
 * [【OpenPilot】Automated Lane Centering and Adaptive Cruise Control](https://github.com/commaai/openpilot)<br>
 * [【AirSim】自动驾驶仿真环境](https://github.com/microsoft/AirSim)<br>
+* [【SelfDrivingCarSim】自动驾驶仿真工具](https://github.com/udacity/self-driving-car-sim)<br>
 ## 计算机视觉——实战小项目
 * [活体检测](https://github.com/ZJUTSong/Alive_Detect)<br>
 * [自动驾驶](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)<br>
