@@ -229,6 +229,7 @@
   * [LeetCode101](https://github.com/changgyhub/leetcode_101)<br>
   * [LeetCode151](https://github.com/soulmachine/leetcode)<br>
   * [LeetCode纯C](https://github.com/begeekmyfriend/leetcode)<br>
+  * [LeetCode纯Python](https://github.com/qiyuangong/leetcode)<br>
   * [LeetCode&剑指offer&面试金典](https://github.com/doocs/leetcode)<br>
   * [技术面题目汇总](https://github.com/sladesha/Reflection_Summary)<br>
   * [算法理论基础知识](https://github.com/sladesha/Reflection_Summary)<br>
