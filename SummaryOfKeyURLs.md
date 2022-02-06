@@ -101,6 +101,7 @@
   * [ML库集合](https://github.com/ml-tooling/best-of-ml-python)<br>
   * [百度NLP](https://github.com/baidu/lac)<br>
   * [Pytorch机器视觉库](https://github.com/kornia/kornia)<br>
+  * [Pillow PIL库](https://github.com/python-pillow/Pillow)<br>
   * [Gluon NLP](https://github.com/dmlc/gluon-nlp)<br>
   * [NLP Transfer](https://github.com/alibaba/EasyTransfer)<br>
   * [量化压缩](https://github.com/quic/aimet)<br>
