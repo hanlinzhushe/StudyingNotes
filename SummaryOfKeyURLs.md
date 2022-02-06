@@ -21,6 +21,8 @@
 ## 趣味项目
 * 语音类
   * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) <br>
+* 人脸类
+  * [GFPGAN人脸恢复](https://github.com/TencentARC/GFPGAN)<br>
 ## 文献查阅
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
