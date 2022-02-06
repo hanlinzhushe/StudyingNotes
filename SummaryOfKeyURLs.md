@@ -178,8 +178,9 @@
   * [【电子书】机器学习（周志华）公式推导解析](https://github.com/datawhalechina/pumpkin-book)<br>
   * [【代码】Machine Learning in Action](https://github.com/pbharrin/machinelearninginaction)<br>
   * [【电子书】动手学深度学习-李沐](https://zh.d2l.ai/)<br>
-  * [【代码1】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
-  * [【代码2】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
+  * [【PyTorch代码】动手学深度学习-李沐](https://github.com/ShusenTang/Dive-into-DL-PyTorch)<br>
+  * [【中文版代码】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
+  * [【英文版代码】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
   * [【.py代码】动手学深度学习-李沐](https://github.com/Miraclelucy/dive_into_deep_learning)<br>
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
