@@ -169,6 +169,7 @@
   * [深度学习论文精度-李沐](https://github.com/mli/paper-reading)<br>
   * [Datawhale组队学习](https://github.com/datawhalechina/team-learning)<br>
   * [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io)<br>
+  * [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
   * [PapersWithCodeDatasets](https://www.paperswithcode.com/datasets/)<br>
