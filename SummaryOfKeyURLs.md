@@ -189,6 +189,7 @@
   * [【电子书&代码】TensorFlow深度学习](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br>
   * [【电子书】深度学习](https://github.com/exacity/deeplearningbook-chinese)<br>
   * [【电子书】机器学习训练秘籍](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br>
+  * [【PyTorch官方电子书中文版】Deep Learning with PyTorch](https://github.com/ShusenTang/Deep-Learning-with-PyTorch-Chinese)<br>
   * [【代码】Deep Learning Python](https://github.com/MichalDanielDobrzanski/DeepLearningPython)<br>
   * [【代码】Pattern Recognition and Machine Learning](https://github.com/gerdm/prml)<br>
   * [【电子书】面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)<br>
