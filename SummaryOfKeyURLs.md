@@ -189,7 +189,8 @@
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
   * [【代码】Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
   * [【代码】Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)<br>
-  * [【代码】The Elements of Statistical Learning" Notebooks](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks)<br>
+  * [【中文版电子书&代码】The Elements of Statistical Learning](https://github.com/szcf-weiya/ESL-CN)<br>
+  * [【代码】The Elements of Statistical Learning](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks)<br>
   * [【代码】Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)<br>
   * [【电子书&代码】TensorFlow深度学习](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br>
   * [【电子书】深度学习](https://github.com/exacity/deeplearningbook-chinese)<br>
