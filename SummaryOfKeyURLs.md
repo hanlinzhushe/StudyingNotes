@@ -110,6 +110,7 @@
   * [draw_convnet--Convolutional Neural Network画图脚本](https://github.com/gwding/draw_convnet)<br>
   * [PlotNeuralNet神经网络画图](https://github.com/HarisIqbal88/PlotNeuralNet)<br>
   * [Label Studio数据标注工具库](https://github.com/heartexlabs/label-studio)<br>
+  * [Urban PointCloud Processing城市点云的自动分类和标注](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)<br>
 * 框架类
   * [Tensorflow](https://tensorflow.google.cn/) <br>
   * [Tensorflow教程](https://www.tensorflow.org/tutorials)<br>
