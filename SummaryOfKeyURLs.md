@@ -3,6 +3,7 @@
 * 本地工具
   * [Everything](https://github.com/stnkl/EverythingToolbar) <br>
   * [MarkText Markdown编辑器](https://github.com/marktext/marktext)<br>
+  * [【learnGitBranching】交互式Git可视化教程](https://github.com/pcottle/learnGitBranching)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
