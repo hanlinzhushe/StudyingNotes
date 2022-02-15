@@ -41,6 +41,7 @@
 * [【Apollo】百度阿波罗](https://github.com/ApolloAuto/apollo)<br>
 * [【Apollo】阿波罗学习笔记](https://github.com/daohu527/dig-into-apollo)<br>
 * [【PaddleClas】飞桨图像识别套件](https://github.com/PaddlePaddle/PaddleClas)<br>
+* [【PaddleDetection】飞浆物体检测套件](https://github.com/PaddlePaddle/PaddleDetection)<br>
 * [【OpenPilot】Automated Lane Centering and Adaptive Cruise Control](https://github.com/commaai/openpilot)<br>
 * [【AirSim】自动驾驶仿真环境](https://github.com/microsoft/AirSim)<br>
 * [【SelfDrivingCarSim】自动驾驶仿真工具](https://github.com/udacity/self-driving-car-sim)<br>
