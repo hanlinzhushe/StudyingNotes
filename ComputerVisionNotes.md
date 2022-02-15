@@ -31,7 +31,7 @@
 * [【ngin】事实标准的高性能服务器，模块化设计，分层明晰](https://github.com/nginx/nginx)<br>
 * [【openmmlab】很有影响力的计算机视觉开源项目（分类、检测、追踪、3D）](https://github.com/open-mmlab)<br>
 * [【mmf】一套经典的多模态框架](https://github.com/facebookresearch/mmf)<br>
-* [【detectron2】经典视觉框架，必看](https://github.com/facebookresearch/detectron2)<br>
+* [【detectron2】Facebook物体检测经典视觉框架，必看](https://github.com/facebookresearch/detectron2)<br>
 * [【openpose】人体姿态估计](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br>
 * [【chainer】从纯Python的视角勾勒出DNN框架的全貌](https://chainer.org/)<br>
 * [【pix2pixHD】思路清晰代码简洁，经典中的经典](https://github.com/NVIDIA/pix2pixHD)<br>
