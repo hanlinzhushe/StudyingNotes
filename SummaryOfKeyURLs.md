@@ -49,7 +49,7 @@
   * [编程语言中文网](http://c.biancheng.net/)<br>
   * [CodeContests机器学习编程数据集](https://github.com/deepmind/code_contests)<br>
   * [SpiderFlow智能高效的在线爬虫](https://github.com/ssssssss-team/spider-flow)<br>
-  * [【Pycharm插件】Rainbow CSV（查看CSV文件）、Rainbow Brackets（括号配对标注）、Indent Rainbow（层级缩进标注）、Tabnine（代码填充）]()<br>
+  * [【Pycharm插件】Rainbow CSV（查看CSV文件）、Rainbow Brackets（括号配对标注）、Indent Rainbow（层级缩进标注）、Tabnine（代码填充）] <br>
 ## 自动驾驶类
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
