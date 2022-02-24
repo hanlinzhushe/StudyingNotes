@@ -26,6 +26,8 @@
 * 人脸类
   * [GFPGAN人脸恢复](https://github.com/TencentARC/GFPGAN)<br>
 ## 文献查阅
+* 专利类
+  * [百腾网—权威专利搜索网站](https://www.baiten.cn/)<br>
 * 百科类
   * [维基百科](https://en.wikipedia.org/wiki/) <br>
 * 学术资源
