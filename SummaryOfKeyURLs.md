@@ -5,6 +5,7 @@
   * [MarkText Markdown编辑器](https://github.com/marktext/marktext)<br>
   * [【learnGitBranching】交互式Git可视化教程](https://github.com/pcottle/learnGitBranching)<br>
   * [【leetcode-editor】LeetCode IDE编辑插件](https://github.com/shuzijun/leetcode-editor)<br>
+  * [Pexels—高质量图片网站](https://www.pexels.com/zh-cn/)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
