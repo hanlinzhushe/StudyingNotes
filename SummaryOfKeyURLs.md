@@ -221,6 +221,7 @@
   * [Z-Library(中文&英文)](https://singlelogin.org/)<br>
   * [关键词 pdf github](https://www.google.com.hk/search?q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B9%8Bpytorch%E7%89%A9%E4%BD%93%E6%A3%80%E6%B5%8B%E5%AE%9E%E6%88%98+pdf+github&newwindow=1&sxsrf=AOaemvKlxaUvEQ8kwXk4poY5meEcOMi1UQ%3A1634134957188&ei=retmYeiuCsLt9QPSvrrAAQ&ved=0ahUKEwiouYyNy8fzAhXCdn0KHVKfDhgQ4dUDCA4&uact=5&oq=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B9%8Bpytorch%E7%89%A9%E4%BD%93%E6%A3%80%E6%B5%8B%E5%AE%9E%E6%88%98+pdf+github&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjIFCAAQzQI6BwgjELADECc6CAgAEIAEELADOgQIABAeOgUIIRCgAToJCCEQChCgARAqSgQIQRgBUMsSWKE6YLFAaAJwAHgAgAGiAYgBrAiSAQMwLjiYAQCgAQHIAQLAAQE&sclient=gws-wiz)<br>
   * [机器学习书籍大全](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxNDgzNDg3NQ==&action=getalbum&album_id=1355858884346609668&scene=173&subscene=93&sessionid=1636902541&enterid=1636902895&from_msgid=2247497836&from_itemidx=2&count=3&nolastread=1#wechat_redirect)<br>
+  * [鸠摩搜书—综合性搜书网站](https://www.jiumodiary.com/)<br>
 * 国外
   * [Libgen](http://libgen.rs/)<br>
   * [Springer](https://link.springer.com/search/page/1?facet-language=%22En%22&facet-content-type=%22Book%22&showAll=false)<br>
