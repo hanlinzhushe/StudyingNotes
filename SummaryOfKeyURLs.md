@@ -38,6 +38,7 @@
   * [Connected Papers](https://www.connectedpapers.com/)<br>
   * [CatalyzeX](https://www.catalyzex.com/)<br>
   * [Sci-Hub](http://sci-hub.ren/)<br>
+  * [NLPIndex—NLP研究索引神器](https://index.quantumstat.com/)<br>
 * 论文插件
   * 【chrome论文插件】Find Code for Research Papers - CatalyzeX <br>
   * 【Chrome论文代码资源插件】Scholar with Code <br>
