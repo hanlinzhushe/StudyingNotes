@@ -241,6 +241,7 @@
   * [技术面Notes](https://github.com/CyC2018/CS-Notes "综合技术面") <br>
   * [数据结构与算法](https://github.com/frank-lam/fullstack-tutorial/blob/master/notes/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md) <br>
   * [极客时间-数据结构与算法之美-已购买](https://time.geekbang.org/column/intro/100017301?tab=catalog&code=3JUXK2cy859TL3t7gIJ%2FGZ01Tx03kmFBN2zTC5sOgZ4%3D&utm_term=SPoster "We创新无止境173")<br>
+  * [数据结构和算法之美-王争-代码实现](https://github.com/wangzheng0822/algo)<br>
   * [马士兵教育-算法和数据结构-已购买](https://www.mashibing.com/course?id=337)<br>
   * [全栈架构师](https://github.com/frank-lam/fullstack-tutorial)<br>
   * [LeetCode101](https://github.com/changgyhub/leetcode_101)<br>
