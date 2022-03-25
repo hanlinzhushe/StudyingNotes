@@ -146,8 +146,9 @@
   * 检测模型评价指标
 * 经典模型
   * YOLO官网：[网址](https://pjreddie.com/darknet/yolo/)<br>
-  * YOLO V1及Loss(You Only Look Once:Unified, Real-Time Object Detection)：
+  * 【YOLO V1】You Only Look Once:Unified, Real-Time Object Detection：
     [论文](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+    [源码](https://pjreddie.com/darknet/yolov1/?utm_source=catalyzex.com)
     [TensorFlow代码1](https://github.com/gliese581gg/YOLO_tensorflow)
     [TensorFlow代码2](https://github.com/thtrieu/darkflow)
   * YOLO V2：Anchor引入
