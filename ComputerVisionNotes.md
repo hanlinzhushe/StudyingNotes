@@ -91,8 +91,8 @@
 * [【Resnet-R11W+】Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)<br>
 * [【LenetV4-R1W+】Inception-ResNet and the Impact of Residual Connections on Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14806/14311)<br>
 * [【ResNeXt-R1W+】Aggregated Residual Transformations for Deep Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)<br>
-* [【】]()<br>
-* [【】]()<br>
+* [【Densenet-R2W+】Densely Connected Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)<br>
+* [【SEnet-R1W+】Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)<br>
 
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
