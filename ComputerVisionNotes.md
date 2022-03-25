@@ -174,10 +174,12 @@
   * RCNN（NMS系列）Rich feature hierarchies for accurate object detection and semantic segmentation:
     [论文](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
     [源码](https://github.com/rbgirshick/rcnn?utm_source=catalyzex.com)
-  * SPP-Net
+  * SPP-Net:Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition:
+    [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-10578-9_23.pdf)
+    [源码](https://github.com/yhenon/keras-spp?utm_source=catalyzex.com)
   * Fast RCNN（ROI Pooling系列）Fast R-CNN：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
-    [代码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
+    [源码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
   * Faster RCNN（RPN网络和Anchor）Faster r-cnn Towards real-time object detection with region proposal networks：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
     [代码1](https://github.com/longcw/faster_rcnn_pytorch)
