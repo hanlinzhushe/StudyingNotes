@@ -186,7 +186,9 @@
     [代码1](https://github.com/longcw/faster_rcnn_pytorch)
     [代码2](https://github.com/jwyang/faster-rcnn.pytorch)
   * Feature Pyramid Networks + Faster RCNN
-  * R-FC
+  * R-FCN:Object Detection via Region-based Fully Convolutional Networks:
+    [论文](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)
+    [源码](https://github.com/daijifeng001/r-fcn)
   * Cascade RCNN
 ## 计算机视觉——图像分割
 * 技术细节
