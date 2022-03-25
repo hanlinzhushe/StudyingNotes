@@ -89,7 +89,7 @@
 * [【LenetV2-R4W+】Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)<br>
 * [【LenetV3-R2W+】Rethinking the Inception Architecture for Computer Vision](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)<br>
 * [【Resnet-R11W+】Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)<br>
-* [【】]()<br>
+* [【LenetV4-R1W+】Inception-ResNet and the Impact of Residual Connections on Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14806/14311)<br>
 * [【】]()<br>
 * [【】]()<br>
 * [【】]()<br>
