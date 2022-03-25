@@ -151,9 +151,12 @@
     [源码](https://pjreddie.com/darknet/yolov1/?utm_source=catalyzex.com)
     [TensorFlow代码1](https://github.com/gliese581gg/YOLO_tensorflow)
     [TensorFlow代码2](https://github.com/thtrieu/darkflow)
-  * YOLO V2：Anchor引入
+  * 【YOLO V2（Anchor引入）】YOLO9000: Better, Faster, Stronger:
+    [论文](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf)
     [PyTorch代码](https://github.com/longcw/yolo2-pytorch)
-  * YOLO V3：多尺度引入（高复用检测模型，效果好上手快）
+  * 【YOLO V3（多尺度引入）】Yolov3: An incremental improvement:
+    [论文](https://arxiv.org/pdf/1804.02767.pdf;)
+    [源码](https://pjreddie.com/darknet/yolo/)
     [代码](https://github.com/ultralytics/yolov3)
   * FPN
   * YOLO V4：
