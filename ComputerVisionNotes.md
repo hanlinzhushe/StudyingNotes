@@ -83,7 +83,16 @@
 # ---------------------------------------------------------
 # 计算机视觉BackBone
 ## 计算机视觉——Baseline论文
-* [【Alexnet】ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)<br>
+* [【Alexnet-R10W+】ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
+* [【】]()<br>
 
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
