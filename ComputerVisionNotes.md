@@ -158,7 +158,6 @@
     [论文](https://arxiv.org/pdf/1804.02767.pdf;)
     [源码](https://pjreddie.com/darknet/yolo/)
     [代码](https://github.com/ultralytics/yolov3)
-  * FPN
   * YOLO V4：
     [代码](https://github.com/WongKinYiu/ScaledYOLOv4)
     [官方代码V4,V3,V2](https://github.com/AlexeyAB/darknet)
