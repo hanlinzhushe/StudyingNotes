@@ -85,6 +85,7 @@
 ## 计算机视觉——路线大纲
 * [人工智能第三期课程大纲——咕泡AI](https://www.processon.com/view/link/6081395d5653bb708d504a09#map)<br>
 * [计算机视觉大牛-何恺明论文代码集](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=zh-CN&oi=ao)<br>
+* [计算机视觉大牛-rbg论文代码集](https://scholar.google.com/citations?hl=en&user=W8VIEZgAAAAJ&pagesize=1000&sortby=pubdate)<br>
 ## 初级计算机视觉——图像处理
 * 图像基本属性
 * 图像相似性变换
