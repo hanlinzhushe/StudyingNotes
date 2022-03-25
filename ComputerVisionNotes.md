@@ -85,8 +85,8 @@
 ## 计算机视觉——Baseline论文
 * [【Alexnet-R10W+】ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)<br>
 * [【VGGnet-R7W+】Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf%E3%80%82)<br>
-* [【GooglenetV1-R4W+】Going deeper with convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)<br>
-* [【】]()<br>
+* [【LenetV1-R4W+】Going deeper with convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)<br>
+* [【LenetV2-R4W+】Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)<br>
 * [【】]()<br>
 * [【】]()<br>
 * [【】]()<br>
