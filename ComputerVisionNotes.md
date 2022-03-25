@@ -171,7 +171,9 @@
     [PyTorch代码](https://github.com/amdegroot/ssd.pytorch)
 ## 计算机视觉——两阶段目标检测
 * 经典模型
-  * RCNN（NMS系列）
+  * RCNN（NMS系列）Rich feature hierarchies for accurate object detection and semantic segmentation:
+    [论文](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
+    [源码](https://github.com/rbgirshick/rcnn?utm_source=catalyzex.com)
   * SPP-Net
   * Fast RCNN（ROI Pooling系列）Fast R-CNN：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
