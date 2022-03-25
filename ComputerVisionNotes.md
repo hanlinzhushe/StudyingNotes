@@ -67,6 +67,7 @@
 * 知乎：机器学习相关
 ## 计算机视觉——技术大牛
 * [计算机视觉大牛Kaiming He 何恺明](http://kaiminghe.com/)<br>
+* [计算机视觉大牛rbg](https://www.rossgirshick.info/)<br>
 * [ckllab-stanford](https://ckllab.stanford.edu/publications)<br>
 * [vision.stanford](http://vision.stanford.edu/)<br>
 * [李飞飞](http://vision.stanford.edu/)<br>
