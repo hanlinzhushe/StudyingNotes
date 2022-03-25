@@ -171,24 +171,24 @@
     [PyTorch代码](https://github.com/amdegroot/ssd.pytorch)
 ## 计算机视觉——两阶段目标检测
 * 经典模型
-  * RCNN（NMS系列）Rich feature hierarchies for accurate object detection and semantic segmentation:
+  * 【RCNN（NMS系列）】Rich feature hierarchies for accurate object detection and semantic segmentation:
     [论文](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
     [源码](https://github.com/rbgirshick/rcnn?utm_source=catalyzex.com)
-  * SPP-Net:Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition:
+  * 【SPP-Net】Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition:
     [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-10578-9_23.pdf)
     [源码](https://github.com/yhenon/keras-spp?utm_source=catalyzex.com)
-  * Fast RCNN（ROI Pooling系列）Fast R-CNN：
+  * 【Fast RCNN（ROI Pooling系列）】Fast R-CNN：
     [论文](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
     [源码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
-  * Faster RCNN（RPN网络和Anchor）Faster r-cnn Towards real-time object detection with region proposal networks：
+  * 【Faster RCNN（RPN网络和Anchor）】Faster r-cnn Towards real-time object detection with region proposal networks：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
     [源码](https://github.com/ShaoqingRen/faster_rcnn)
     [代码1](https://github.com/longcw/faster_rcnn_pytorch)
     [代码2](https://github.com/jwyang/faster-rcnn.pytorch)
-  * R-FCN:Object Detection via Region-based Fully Convolutional Networks:
+  * 【R-FCN】Object Detection via Region-based Fully Convolutional Networks:
     [论文](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)
     [源码](https://github.com/daijifeng001/r-fcn)
-  * FPN:Feature Pyramid Networks for Object Detection:
+  * 【FPN:】Feature Pyramid Networks for Object Detection:
     [论文](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
     [源码](https://github.com/jwyang/fpn.pytorch?utm_source=catalyzex.com)
 ## 计算机视觉——图像分割
