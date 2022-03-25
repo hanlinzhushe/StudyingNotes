@@ -182,6 +182,7 @@
     [源码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com)
   * Faster RCNN（RPN网络和Anchor）Faster r-cnn Towards real-time object detection with region proposal networks：
     [论文](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+    [源码](https://github.com/ShaoqingRen/faster_rcnn)
     [代码1](https://github.com/longcw/faster_rcnn_pytorch)
     [代码2](https://github.com/jwyang/faster-rcnn.pytorch)
   * Feature Pyramid Networks + Faster RCNN
