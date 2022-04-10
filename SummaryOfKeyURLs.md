@@ -75,6 +75,7 @@
   * [算法理论基础知识应知应会](https://github.com/sladesha/Reflection_Summary)<br>
   * [Start Machine Learning](https://github.com/louisfb01/start-machine-learning)<br>
   * [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence)<br>
+  * [ML for Beginners - 微软开源](https://github.com/microsoft/ML-For-Beginners)<br>
 * 综述类
   * [ML Surveys](https://github.com/eugeneyan/ml-surveys)<br>
   * [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys)<br>
