@@ -166,6 +166,7 @@
   * [Deep Learning - MIT](https://github.com/janishar/mit-deep-learning-book-pdf)<br>
   * [知识图谱-东南大学](https://github.com/npubird/KnowledgeGraphCourse)<br>
   * [机器学习-吴恩达](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br>
+  * [DeepLearning.AI-吴恩达](https://www.deeplearning.ai/)<br>
   * [Deep Learning (with PyTorch)](https://github.com/Atcold/pytorch-Deep-Learning)<br>
   * [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)<br>
 * 公开课
