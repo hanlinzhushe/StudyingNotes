@@ -200,6 +200,12 @@
     [代码](https://github.com/matterport/Mask_RCNN)
   * TensorMask
 ## 计算机视觉——目标跟踪
+* 技术细节
+
+| 经典技术                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
+| ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
+| Kalman Filter | [1、卡尔曼滤波工作原理（中文教程）](https://www.jianshu.com/p/42145f1077e5)<br>[2、卡尔曼滤波工作原理（英文教程）](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#more-491)<br> | []() | []() |
+| xxx | []() | []() | []() |
 * 经典目标跟踪方法
   * 帧差法
   * TLD算法
