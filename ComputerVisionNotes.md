@@ -145,6 +145,7 @@
   * Passthrough方法
   * 检测模型评价指标
 * 经典模型
+
 | 模块     | 章节                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
 | 计算机视觉 | YOLO V3 | []() | [1、英文教程PyTorch版](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)<br>[2、中文教程PyTorch版](https://zhuanlan.zhihu.com/p/49981816)<br> | [1、教程代码PyTorch版](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)<br>[2、灵活代码PyTorch版](https://github.com/ayooshkathuria/pytorch-yolo-v3)<br> |
