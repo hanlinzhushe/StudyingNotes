@@ -148,18 +148,12 @@
 
 | 经典模型                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
-| YOLO系列 | [YOLO官网](https://pjreddie.com/darknet/yolo/) | []() | []() |
+| YOLO系列 | []() | [YOLO官网](https://pjreddie.com/darknet/yolo/) | []() |
+| YOLO V1 | []() | [You Only Look Once:Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) | [源码](https://pjreddie.com/darknet/yolov1/?utm_source=catalyzex.com)<br>[TensorFlow代码1](https://github.com/gliese581gg/YOLO_tensorflow)<br>[TensorFlow代码2](https://github.com/thtrieu/darkflow) |
+| 【YOLO V2（Anchor引入） | []() | [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf) | [PyTorch代码](https://github.com/longcw/yolo2-pytorch)<br> |
 | YOLO V3 | []() | [1、英文教程PyTorch版](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)<br>[2、中文教程PyTorch版](https://zhuanlan.zhihu.com/p/49981816)<br> | [1、教程代码PyTorch版](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)<br>[2、灵活代码PyTorch版](https://github.com/ayooshkathuria/pytorch-yolo-v3)<br> |
 | XXX | []() | []() | []() |
-  * ：[网址]()<br>
-  * 【YOLO V1】You Only Look Once:Unified, Real-Time Object Detection：
-    [论文](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
-    [源码](https://pjreddie.com/darknet/yolov1/?utm_source=catalyzex.com)
-    [TensorFlow代码1](https://github.com/gliese581gg/YOLO_tensorflow)
-    [TensorFlow代码2](https://github.com/thtrieu/darkflow)
-  * 【YOLO V2（Anchor引入）】YOLO9000: Better, Faster, Stronger:
-    [论文](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf)
-    [PyTorch代码](https://github.com/longcw/yolo2-pytorch)
+| XXX | []() | []() | []() |
   * 【YOLO V3（多尺度引入）】Yolov3: An incremental improvement:
     [论文](https://arxiv.org/pdf/1804.02767.pdf;)
     [源码](https://pjreddie.com/darknet/yolo/)
