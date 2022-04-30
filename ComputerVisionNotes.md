@@ -150,28 +150,16 @@
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
 | YOLO系列 | []() | [YOLO官网](https://pjreddie.com/darknet/yolo/) | []() |
 | YOLO V1 | []() | [You Only Look Once:Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) | [源码](https://pjreddie.com/darknet/yolov1/?utm_source=catalyzex.com)<br>[TensorFlow代码1](https://github.com/gliese581gg/YOLO_tensorflow)<br>[TensorFlow代码2](https://github.com/thtrieu/darkflow) |
-| 【YOLO V2（Anchor引入） | []() | [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf) | [PyTorch代码](https://github.com/longcw/yolo2-pytorch)<br> |
-| YOLO V3 | []() | [1、英文教程PyTorch版](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)<br>[2、中文教程PyTorch版](https://zhuanlan.zhihu.com/p/49981816)<br> | [1、教程代码PyTorch版](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)<br>[2、灵活代码PyTorch版](https://github.com/ayooshkathuria/pytorch-yolo-v3)<br> |
+| YOLO V2（Anchor引入） | []() | [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf) | [PyTorch代码](https://github.com/longcw/yolo2-pytorch)<br> |
+| YOLO V3 | [1、英文教程PyTorch版](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)<br>[2、中文教程PyTorch版](https://zhuanlan.zhihu.com/p/49981816)<br> | [Yolov3: An incremental improvement](https://arxiv.org/pdf/1804.02767.pdf) | [1、教程代码PyTorch版](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)<br>[2、灵活代码PyTorch版](https://github.com/ayooshkathuria/pytorch-yolo-v3)<br>[3、源码](https://pjreddie.com/darknet/yolo/)<br>[4、代码](https://github.com/ultralytics/yolov3) |
+| YOLO V4 | []() | []() | [1、代码](https://github.com/WongKinYiu/ScaledYOLOv4)<br>[2、官方代码V4,V3,V2](https://github.com/AlexeyAB/darknet)<br>[3、PyTorch代码](https://github.com/Tianxiaomo/pytorch-YOLOv4) |
+| YOLO V5 | []() | []() | [代码](https://github.com/ultralytics/yolov5) |
+| RetinaNet | []() | []() | []() |
+| CenterNet | []() | []() | []() |
+| FCos | []() | []() | []() |
+| SSD | []() | [Single shot multibox detector](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_2.pdf) | [1、Caffe代码](https://github.com/weiliu89/caffe/tree/ssd?utm_source=catalyzex.com)<br>[2、PyTorch代码](https://github.com/amdegroot/ssd.pytorch) |
 | XXX | []() | []() | []() |
-| XXX | []() | []() | []() |
-  * 【YOLO V3（多尺度引入）】Yolov3: An incremental improvement:
-    [论文](https://arxiv.org/pdf/1804.02767.pdf;)
-    [源码](https://pjreddie.com/darknet/yolo/)
-    [代码](https://github.com/ultralytics/yolov3)
-  * YOLO V4：
-    [代码](https://github.com/WongKinYiu/ScaledYOLOv4)
-    [官方代码V4,V3,V2](https://github.com/AlexeyAB/darknet)
-    [PyTorch代码](https://github.com/Tianxiaomo/pytorch-YOLOv4)
-  * YOLO V5：
-    [代码](https://github.com/ultralytics/yolov5)
-  * RetinaNet：Focal Loss
-  * Anchor Free
-  * Anchor Free：CenterNet
-  * Anchor Free：FCos
-  * SSD(Ssd: Single shot multibox detector)：
-    [论文](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_2.pdf)
-    [Caffe代码](https://github.com/weiliu89/caffe/tree/ssd?utm_source=catalyzex.com)
-    [PyTorch代码](https://github.com/amdegroot/ssd.pytorch)
+    
 ## 计算机视觉——两阶段目标检测
 * 经典模型
   * 【RCNN（NMS系列）】Rich feature hierarchies for accurate object detection and semantic segmentation:
