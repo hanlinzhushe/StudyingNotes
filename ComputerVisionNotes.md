@@ -164,7 +164,7 @@
 | YOLO V4 | []() | []() | [1、代码](https://github.com/WongKinYiu/ScaledYOLOv4)<br>[2、官方代码V4,V3,V2](https://github.com/AlexeyAB/darknet)<br>[3、PyTorch代码](https://github.com/Tianxiaomo/pytorch-YOLOv4) |
 | YOLO V5 | []() | []() | [代码](https://github.com/ultralytics/yolov5) |
 | RetinaNet | []() | []() | []() |
-| CenterNet | [重读 CenterNet](https://zhuanlan.zhihu.com/p/350610859) | []() | [源码](https://github.com/xingyizhou/CenterNet) |
+| CenterNet | [重读 CenterNet](https://zhuanlan.zhihu.com/p/350610859) | [Objects as Points](https://arxiv.org/pdf/1904.07850.pdf) | [源码](https://github.com/xingyizhou/CenterNet) |
 | FCos | []() | []() | []() |
 | SSD | []() | [Single shot multibox detector](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_2.pdf) | [1、Caffe代码](https://github.com/weiliu89/caffe/tree/ssd?utm_source=catalyzex.com)<br>[2、PyTorch代码](https://github.com/amdegroot/ssd.pytorch) |
 | XXX | []() | []() | []() |
