@@ -190,14 +190,14 @@
   * 跳级结构
   * 分割模型评价指标
 * 经典模型
-  * UNet(U-Net Convolutional Networks for Biomedical Image Segmentation)：
-    [论文](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf)
-  * ENet
-  * Mask RCNN(Mask R-CNN)：
-    [论文](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
-    [源码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com)
-    [代码](https://github.com/matterport/Mask_RCNN)
-  * TensorMask
+
+| 经典模型                                                         | 原理总结                                   | 论文    | 代码(GitHub)    |
+| ------------------------------------------------------------ | -------------------------------------------- | --------- | --------- |
+| UNet | []() | [U-Net Convolutional Networks for Biomedical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf) | []() |
+| ENet | []() | []() | []() |
+| Mask RCNN | []() | [Mask R-CNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf) | [源码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com)<br>[代码](https://github.com/matterport/Mask_RCNN)<br> |
+| TensorMask | []() | []() | []() |
+| xxx | []() | []() | []() |
 ## 计算机视觉——目标跟踪
 * 技术细节
 
