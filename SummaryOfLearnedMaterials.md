@@ -20,4 +20,5 @@
 | 数学基础 | SVD | [强大的矩阵奇异值分解(SVD)及其应用](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html) | []() | []() |
 | 数学基础 | LDA/PCA | [线性判别分析（LDA）, 主成分分析(PCA)](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/08/lda-and-pca-machine-learning.html) | []() | []() |
 | 数据结构 | LeetCodeAnimation | [1、LeetCode动画教程](https://github.com/MisterBooo/LeetCodeAnimation)<br> | []() | []() |
+| Python | 可变与不可变数据类型 | [python的可变与不可变数据类型](https://www.cnblogs.com/big-devil/p/7625898.html) | []() | []() |
 | xxx | xxx | []() | []() | []() |
