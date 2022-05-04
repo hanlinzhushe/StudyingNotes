@@ -17,5 +17,5 @@
 | 模块     | 章节                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
 | 机器学习 | XGBoost | [1、XGBoost原理](https://blog.csdn.net/a819825294/article/details/51206410)<br>[2、通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574)<br>[3、讲义BoostedTree.pdf](https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf) | [Xgboost: A scalable tree boosting system](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785) | [1、官方代码](https://github.com/dmlc/xgboost)<br>[2、XGBoost算法及调参](https://www.cnblogs.com/wj-1314/p/9402324.html)<br>[3、Shap官方可视化工具](https://github.com/slundberg/shap)<br>[4、Shap项目实战代码](https://github.com/hanlinzhushe/MyProjects/tree/main/XGBoostAndShap)<br> |
-| 机器学习 | XXX | []() | []() | []() |
+| 数学基础 | XXX | [强大的矩阵奇异值分解(SVD)及其应用](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html) | []() | []() |
 | 数据结构 | LeetCodeAnimation | [1、LeetCode动画教程](https://github.com/MisterBooo/LeetCodeAnimation)<br> | []() | []() |
