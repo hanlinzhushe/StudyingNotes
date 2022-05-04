@@ -150,6 +150,7 @@
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
 | 多尺度模型设计 | [多尺度模型设计](https://www.jianshu.com/p/57cfa4fdd423) | []() | []() |
 | 选择性搜索Selective Search | [目标检测之选择性搜索-Selective Search ](https://www.cnblogs.com/zyly/p/9259392.html) | []() | []() |
+| OverFeat | [论文笔记](https://www.cnblogs.com/liaohuiqiang/p/9348276.html) | [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf) | []() |
 | 先验框与统计框设计 | []() | []() | []() |
 | 对预测边框的约束 | []() | []() | []() |
 | Passthrough方法 | []() | []() | []() |
@@ -175,6 +176,7 @@
 
 | 经典模型                                                         | 原理总结                                   | 论文    | 代码(GitHub)    |
 | ------------------------------------------------------------ | -------------------------------------------- | --------- | --------- |
+| 综述 | [1、基于深度学习的目标检测技术演进：R-CNN、Fast R-CNN、Faster R-CNN](https://www.cnblogs.com/skyfsm/p/6806246.html)<br>[2、基于深度学习的目标检测算法的综述](https://www.cnblogs.com/zyly/p/9250195.html)<br> | []() | []() |
 | RCNN（NMS系列） | [1、目标检测算法之R-CNN算法详解](https://www.cnblogs.com/zyly/p/9246221.html)<br>[2、论文翻译1](https://www.cnblogs.com/xiaotongtt/p/6691103.html)<br>[3、论文翻译2](https://www.cnblogs.com/wj-1314/p/13209009.html)<br> | [Rich feature hierarchies for accurate object detection and semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) | [源码](https://github.com/rbgirshick/rcnn?utm_source=catalyzex.com) |
 | SPP-Net | [空间金字塔池化原理和代码实现(Pytorch)](https://www.cnblogs.com/marsggbo/p/8572846.html) | [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://link.springer.com/content/pdf/10.1007/978-3-319-10578-9_23.pdf) | [源码](https://github.com/yhenon/keras-spp?utm_source=catalyzex.com) |
 | Fast RCNN（ROI Pooling系列） | [1、中文教程（Fast R-CNN论文详解）](https://www.jianshu.com/p/fbbb21e1e390)<br>[2、Fast R-CNN算法详解](https://www.cnblogs.com/zyly/p/9246418.html)<br> | [Fast R-CNN](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) | [源码](https://github.com/rbgirshick/fast-rcnn?utm_source=catalyzex.com) |
