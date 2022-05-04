@@ -125,7 +125,7 @@
 * ReLU、PReLU、Leaky ReLU
 * Batch Normalization
 * Dropout
-* 参数初始化：Gaussian/Xavier/Kaiming
+* 参数初始化：Gaussian/Xavier/Kaiming[神经网络中的权重初始化](https://www.cnblogs.com/banluxinshou/p/14000353.html)<br>
 * 参数优化：SGD/Adagrad/Adam
 ## 计算机视觉——图像分类
 * 技术细节
