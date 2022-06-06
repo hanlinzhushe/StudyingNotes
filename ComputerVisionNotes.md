@@ -46,6 +46,9 @@
 * [【AirSim】自动驾驶仿真环境](https://github.com/microsoft/AirSim)<br>
 * [【SelfDrivingCarSim】自动驾驶仿真工具](https://github.com/udacity/self-driving-car-sim)<br>
 * [【AutowareAI】Autoware AI](https://github.com/Autoware-AI/autoware.ai)<br>
+| 经典技术                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
+| ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
+| 多尺度模型设计 | [多尺度模型设计](https://www.jianshu.com/p/57cfa4fdd423) | []() | []() |
 ## 计算机视觉——实战小项目
 * [活体检测](https://github.com/ZJUTSong/Alive_Detect)<br>
 * [自动驾驶](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)<br>
