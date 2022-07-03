@@ -18,6 +18,7 @@
   * [中国大学MOOC](https://www.icourse163.org/)<br>
   * [华为云开发者学堂](https://edu.huaweicloud.com/)<br>
   * [PaperSpace](https://blog.paperspace.com/)<br>
+  * [深蓝学院](https://www.shenlanxueyuan.com/open/course/90)<br>
 * 博客资源
   * [掘金](https://juejin.cn/ai) <br>
   * [菜鸟教程](https://www.runoob.com/)<br>
