@@ -65,7 +65,13 @@
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
   * [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)<br>
   * [Awesome Radar Perception](https://github.com/ZHOUYI1023/awesome-radar-perception)<br>
+  * [Awesome Multiple object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)<br>
+  * [awesome-autonomous-vehicle-resource](https://github.com/teddyluo/awesome-autonomous-vehicle-resource)<br>
   * [部分书籍](https://github.com/edward-wq/books)<br>
+* 数据集
+  * [CRUW devkit](https://github.com/yizhou-wang/cruw-devkit)<br>
+  * [Waymo Open Dataset](https://github.com/waymo-research/waymo-open-dataset)<br>
+  * [BDD100K](https://github.com/bdd100k/bdd100k)<br>
 * 机器视觉
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
