@@ -171,6 +171,8 @@
 | YOLO V3 | [1、英文教程PyTorch版](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)<br>[2、超详细的Pytorch版yolov3代码中文注释详解](https://zhuanlan.zhihu.com/p/49981816)<br>[3、中文教程(深入理解)](https://zhuanlan.zhihu.com/p/49556105)<br> | [Yolov3: An incremental improvement](https://arxiv.org/pdf/1804.02767.pdf) | [1、教程代码PyTorch版](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)<br>[2、灵活代码PyTorch版](https://github.com/ayooshkathuria/pytorch-yolo-v3)<br>[3、源码](https://pjreddie.com/darknet/yolo/)<br>[4、代码](https://github.com/ultralytics/yolov3) |
 | YOLO V4 | []() | []() | [1、代码](https://github.com/WongKinYiu/ScaledYOLOv4)<br>[2、官方代码V4,V3,V2](https://github.com/AlexeyAB/darknet)<br>[3、PyTorch代码](https://github.com/Tianxiaomo/pytorch-YOLOv4) |
 | YOLO V5 | []() | []() | [代码](https://github.com/ultralytics/yolov5) |
+| YOLO V6 | []() | []() | [代码](https://github.com/meituan/YOLOv6) |
+| YOLO V7 | []() | []() | [代码](https://github.com/WongKinYiu/yolov7) |
 | RetinaNet | [目标检测：RetinaNet](https://zhuanlan.zhihu.com/p/53259174) | [Focal loss for dense object detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) | [源码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com) |
 | CenterNet | [重读 CenterNet](https://zhuanlan.zhihu.com/p/350610859) | [Objects as Points](https://arxiv.org/pdf/1904.07850.pdf) | [源码](https://github.com/xingyizhou/CenterNet) |
 | FCos | []() | []() | []() |
