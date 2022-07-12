@@ -64,6 +64,7 @@
 * 全栈类
   * [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)<br>
   * [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)<br>
+  * [Awesome Radar Perception](https://github.com/ZHOUYI1023/awesome-radar-perception)<br>
   * [部分书籍](https://github.com/edward-wq/books)<br>
 * 机器视觉
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
