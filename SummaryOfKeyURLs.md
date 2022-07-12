@@ -187,6 +187,7 @@
   * [斯坦福-深度学习](https://www.coursera.org/specializations/deep-learning)<br>
   * [深度学习论文精度-李沐](https://github.com/mli/paper-reading)<br>
   * [Datawhale组队学习](https://github.com/datawhalechina/team-learning)<br>
+  * [CS230 Deep Learning](https://cs230.stanford.edu/)<br>
   * [CS231n: Deep Learning for Computer Vision](https://github.com/cs231n/cs231n.github.io)<br>
   * [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)<br>
   * [CS25: Transformers United](https://web.stanford.edu/class/cs25/)<br>
