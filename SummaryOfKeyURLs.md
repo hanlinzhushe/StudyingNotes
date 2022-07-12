@@ -187,7 +187,9 @@
   * [斯坦福-深度学习](https://www.coursera.org/specializations/deep-learning)<br>
   * [深度学习论文精度-李沐](https://github.com/mli/paper-reading)<br>
   * [Datawhale组队学习](https://github.com/datawhalechina/team-learning)<br>
-  * [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io)<br>
+  * [CS231n: Deep Learning for Computer Vision](https://github.com/cs231n/cs231n.github.io)<br>
+  * [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)<br>
+  * [CS25: Transformers United](https://web.stanford.edu/class/cs25/)<br>
   * [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022)<br>
 * 论文&代码
   * [PapersWithCode](https://paperswithcode.com)<br>
