@@ -13,6 +13,8 @@
 * 《深度学习轻松学》（冯超）<br>
 * [《动手学深度学习》（李沐）](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
 * [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/hanlinzhushe/StudyingNotes/blob/main/SummaryOfKeyURLs.md)<br>
+## 计算机视觉——经典工具
+* [【标注工具】LabelImg](https://github.com/tzutalin/labelImg)<br>
 ## 计算机视觉——课程视频
 * [【斯坦福】用于视觉识别的卷积神经网络](http://cs231n.stanford.edu/)<br>
 * [【斯坦福】人工智能时代的计算机图形学](http://cs348i.stanford.edu/)<br>
