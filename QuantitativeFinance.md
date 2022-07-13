@@ -14,5 +14,8 @@
   * [【QUANTAXIS】纯本地量化解决方案](https://github.com/QUANTAXIS/QUANTAXIS)<br>
   * [【Stock】30天掌握量化交易](https://github.com/Rockyzsu/stock)<br>
   * [【abu】阿布量化交易系统](https://github.com/bbfamily/abu)<br>
+  * [zipline](https://github.com/quantopian/zipline)<br>
+  * [RQAlpha](https://github.com/ricequant/rqalpha)<br>
+  * [qlib](https://github.com/microsoft/qlib)<br>
 * 书籍综述类
   * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)<br>
