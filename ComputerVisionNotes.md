@@ -57,6 +57,7 @@
 * [自动驾驶](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)<br>
 * [ANPR projects](https://github.com/GuiltyNeuron/ANPR)<br>
 * [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)<br>
+* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://github.com/charlesq34/frustum-pointnets)<br>
 ## 计算机视觉——技术社区
 * [Reddit计算机视觉版块](https://www.reddit.com/r/computervision/)<br>
 * [ffmpeg](https://ffmpeg.org/ffmpeg-codecs.html#Codec-Options)<br>
