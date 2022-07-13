@@ -211,6 +211,7 @@
   * [42Papers](https://42papers.com/)<br>
 * AI书籍
   * [【电子书】神经网络与深度学习-邱锡鹏](https://github.com/nndl/nndl.github.io)<br>
+  * [【电子书】强化学习](https://github.com/datawhalechina/easy-rl)<br>
   * [【代码1】统计学习方法-李航](https://github.com/Dod-o/Statistical-Learning-Method_Code)<br>
   * [【代码2】统计学习方法-李航](https://github.com/fengdu78/lihang-code)<br>
   * [【代码】深度学习之PyTorch物体检测实战-董洪义](https://github.com/dongdonghy/Detection-PyTorch-Notebook)<br>
