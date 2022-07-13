@@ -58,6 +58,7 @@
 * [ANPR projects](https://github.com/GuiltyNeuron/ANPR)<br>
 * [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)<br>
 * [Frustum PointNets for 3D Object Detection from RGB-D Data](https://github.com/charlesq34/frustum-pointnets)<br>
+* [RODNet: Radar Object Detection Network](https://github.com/yizhou-wang/RODNet)<br>
 ## 计算机视觉——技术社区
 * [Reddit计算机视觉版块](https://www.reddit.com/r/computervision/)<br>
 * [ffmpeg](https://ffmpeg.org/ffmpeg-codecs.html#Codec-Options)<br>
