@@ -9,6 +9,7 @@
   * [Pexels—高质量图片网站](https://www.pexels.com/zh-cn/)<br>
   * [Beyond Compare](https://github.com/YKB2333/Beyond-Compare)<br>
   * [【eSearch】视屏搜索](https://github.com/xushengfeng/eSearch)<br>
+  * [Snipaste](https://github.com/Snipaste/feedback)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
