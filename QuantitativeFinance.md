@@ -12,5 +12,6 @@
   * [【awesome-quant】量化金融库](https://github.com/wilsonfreitas/awesome-quant)<br>
   * [【Awesome Quant】国内Quant相关资源](https://github.com/thuquant/awesome-quant)<br>
   * [【QUANTAXIS】纯本地量化解决方案](https://github.com/QUANTAXIS/QUANTAXIS)<br>
+  * [【Stock】30天掌握量化交易](https://github.com/Rockyzsu/stock)<br>
 * 书籍综述类
   * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)<br>
