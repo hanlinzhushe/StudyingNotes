@@ -10,6 +10,7 @@
   * [多用户量化交易平台](https://github.com/fmzquant/fmz_extend_api_demo)<br>
   * [【vnpy】开源量化交易平台开发框架](https://github.com/vnpy/vnpy)<br>
   * [【awesome-quant】量化金融库](https://github.com/wilsonfreitas/awesome-quant)<br>
+  * [【Awesome Quant】国内Quant相关资源](https://github.com/thuquant/awesome-quant)<br>
   * [【QUANTAXIS】纯本地量化解决方案](https://github.com/QUANTAXIS/QUANTAXIS)<br>
 * 书籍综述类
   * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)<br>
