@@ -12,6 +12,7 @@
   * [Snipaste](https://github.com/Snipaste/feedback)<br>
   * [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money)<br>
   * [【Jinja】Python HTML报告生成库](https://github.com/pallets/jinja)<br>
+  * [【Unredacter】马赛克恢复工具](https://github.com/BishopFox/unredacter)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
@@ -80,6 +81,10 @@
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
   * [使用自动编码器进行图像去噪](https://mp.weixin.qq.com/s/NvCblfGBH--z_enNKSKgOg)<br>
   * [Yolox核心基础完整讲解](https://mp.weixin.qq.com/s/lBT0X_kQ56VKi6ikwHImMQ)<br>
+* 传感器标定
+  * [Kalibr](https://github.com/ethz-asl/kalibr)<br>
+  * [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)<br>
+  * [JointCalib](https://github.com/OpenCalib/JointCalib)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
