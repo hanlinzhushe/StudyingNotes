@@ -12,6 +12,7 @@
   * [Snipaste](https://github.com/Snipaste/feedback)<br>
   * [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money)<br>
   * [【Jinja】Python HTML报告生成库](https://github.com/pallets/jinja)<br>
+  * [HTMLTestRunnerCN](https://github.com/findyou/HTMLTestRunnerCN)<br>
   * [【Unredacter】马赛克恢复工具](https://github.com/BishopFox/unredacter)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
@@ -76,15 +77,26 @@
   * [CRUW devkit](https://github.com/yizhou-wang/cruw-devkit)<br>
   * [Waymo Open Dataset](https://github.com/waymo-research/waymo-open-dataset)<br>
   * [BDD100K](https://github.com/bdd100k/bdd100k)<br>
+  * [【K-Radar】4D Radar](https://github.com/kaist-avelab/K-Radar)<br>
 * 机器视觉
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
   * [使用自动编码器进行图像去噪](https://mp.weixin.qq.com/s/NvCblfGBH--z_enNKSKgOg)<br>
   * [Yolox核心基础完整讲解](https://mp.weixin.qq.com/s/lBT0X_kQ56VKi6ikwHImMQ)<br>
+  * [BEVFormer](https://github.com/zhiqi-li/BEVFormer)<br>
+  * [Awesome BEV Perception from Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras)<br>
+  * [YOLOP](https://github.com/hustvl/YOLOP)<br>
+  * [HybridNets: End-to-End Perception Network](https://github.com/datvuthanh/HybridNets)<br>
+  * [Radar Multiple Perspective Object Detection](https://github.com/Xiangyu-Gao/Radar-multiple-perspective-object-detection)<br>
+  * [RODNet: Radar object detection network](https://github.com/yizhou-wang/RODNet)<br>
+  * [CRF-Net for Object Detection (Camera and Radar Fusion Network)](https://github.com/TUMFTM/CameraRadarFusionNet)<br>
+  * [RADDet](https://github.com/ZhangAoCanada/RADDet)<br>
+  * [CenterFusion](https://github.com/mrnabati/CenterFusion)<br>
 * 传感器标定
   * [Kalibr](https://github.com/ethz-asl/kalibr)<br>
   * [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)<br>
   * [JointCalib](https://github.com/OpenCalib/JointCalib)<br>
+  * [LiDAR-Camera Calibration](https://github.com/ankitdhall/lidar_camera_calibration)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
