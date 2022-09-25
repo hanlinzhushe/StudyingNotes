@@ -103,7 +103,7 @@
   * [OGM_radar](https://github.com/1160300502/OGM_radar)<br>
   * [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)<br>
   * [yolov3_radar_fusion](https://github.com/ming845378603/yolov3_radar_fusion)<br>
-  * []()<br>
+  * [Radar+RGB Attentive Fusion For Robust Object Detection in Autonomous Vehicles](https://github.com/RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection)<br>
   * []()<br>
 ## AI
 * AI学习路线
