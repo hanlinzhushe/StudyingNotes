@@ -5,6 +5,7 @@
 - 此项目需拿来常读、常记以及面试时复习之用。
 - 此项目部分内容来自于[**ML-NLP项目**](https://github.com/NLP-LOVE/ML-NLP)，建议常去温习相关基础知识。
 - 此项目部分内容来自于[**MachineLearningNote项目**](https://github.com/LeBron-Jian/MachineLearningNote)，建议常去温习相关基础知识。
+- 此项目部分内容来自于[**机器学习100天项目**]([https://github.com/LeBron-Jian/MachineLearningNote](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version))，建议常去温习相关基础知识。
 - 此项目部分内容来自于[**TensorFlow2 框架逐一复现经典的卷积神经网络项目**](https://github.com/Keyird/DeepLearning-TensorFlow2)，建议常去温习相关基础知识。
 
 
