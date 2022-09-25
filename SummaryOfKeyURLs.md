@@ -169,6 +169,7 @@
   * [PlotNeuralNet神经网络画图](https://github.com/HarisIqbal88/PlotNeuralNet)<br>
   * [ConvNetDraw多层神经网络画图](https://github.com/cbovar/ConvNetDraw)<br>
   * [netron可视化工具](https://github.com/lutzroeder/netron)<br>
+  * [OmniXAI可解释AI](https://github.com/salesforce/OmniXAI)<br>
   * [CNN Explainer](https://github.com/poloclub/cnn-explainer)<br>
   * [Tools to Design or Visualize Architecture of Neural Network神经网络画图工具](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)<br>
   * [ML Visuals ML图形模板](https://github.com/dair-ai/ml-visuals)<br>
