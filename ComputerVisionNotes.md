@@ -53,6 +53,7 @@
 * [【AirSim】自动驾驶仿真环境](https://github.com/microsoft/AirSim)<br>
 * [【SelfDrivingCarSim】自动驾驶仿真工具](https://github.com/udacity/self-driving-car-sim)<br>
 * [【AutowareAI】Autoware AI](https://github.com/Autoware-AI/autoware.ai)<br>
+* [【udacity】self-driving-car](https://github.com/udacity/self-driving-car)<br>
 
 | 经典开源项目                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
