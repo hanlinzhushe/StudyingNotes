@@ -102,7 +102,7 @@
   * [【PointNet_radar】Classification of traffic objects using RADAR data](https://github.com/SudhuRao/PointNet_radar)<br>
   * [OGM_radar](https://github.com/1160300502/OGM_radar)<br>
   * [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)<br>
-  * []()<br>
+  * [yolov3_radar_fusion](https://github.com/ming845378603/yolov3_radar_fusion)<br>
   * []()<br>
   * []()<br>
 ## AI
