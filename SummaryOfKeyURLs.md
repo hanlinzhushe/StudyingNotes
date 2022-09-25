@@ -130,6 +130,7 @@
   * [深度学习文献阅读路线](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
   * [应用机器学习](https://github.com/eugeneyan/applied-ml)<br>
   * [预训练语言模型](https://github.com/thunlp/PLMpapers)<br>
+  * [FightingCV-Paper-Reading](https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading)<br>
 * 平台工具类
   * [【GitHub高质量项目】GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)<br>
   * [Anaconda download](https://www.anaconda.com/download)<br>
