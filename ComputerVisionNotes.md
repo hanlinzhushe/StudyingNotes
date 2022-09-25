@@ -176,6 +176,7 @@
 | YOLO V6 | []() | []() | [代码](https://github.com/meituan/YOLOv6) |
 | YOLO V7 | []() | []() | [代码](https://github.com/WongKinYiu/yolov7) |
 | YOLO Air | []() | []() | [代码](https://github.com/iscyy/yoloair) |
+| YOLO X | []() | []() | [代码](https://github.com/Megvii-BaseDetection/YOLOX) |
 | RetinaNet | [目标检测：RetinaNet](https://zhuanlan.zhihu.com/p/53259174) | [Focal loss for dense object detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) | [源码](https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com) |
 | CenterNet | [重读 CenterNet](https://zhuanlan.zhihu.com/p/350610859) | [Objects as Points](https://arxiv.org/pdf/1904.07850.pdf) | [源码](https://github.com/xingyizhou/CenterNet) |
 | FCos | []() | []() | []() |
