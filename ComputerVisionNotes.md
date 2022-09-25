@@ -20,6 +20,7 @@
 * [【标注工具】CVAT](https://github.com/opencv/cvat)<br>
 * [【标注工具】annotate](https://github.com/Earthwings/annotate)<br>
 * [【标注工具】SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS)<br>
+* [【标注工具】Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor)<br>
 ## 计算机视觉——课程视频
 * [【斯坦福】用于视觉识别的卷积神经网络](http://cs231n.stanford.edu/)<br>
 * [【斯坦福】人工智能时代的计算机图形学](http://cs348i.stanford.edu/)<br>
