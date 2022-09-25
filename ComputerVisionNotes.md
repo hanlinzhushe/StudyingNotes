@@ -222,7 +222,7 @@
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
 | Kalman Filter | [1、卡尔曼滤波工作原理（经典中文教程）](https://www.jianshu.com/p/42145f1077e5)<br>[2、卡尔曼滤波工作原理（经典英文教程）](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#more-491)<br> | []() | [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)<br> |
 | SORT | []() | []() | [代码](https://github.com/abewley/sort) |
-| xxx | []() | []() | []() |
+| Deep SORT | []() | []() | [Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort)<br> |
 | YOLO V5 SORT | []() | []() | [代码](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)<br> |
 | xxx | []() | []() | []() |
 | xxx | []() | []() | []() |
