@@ -131,6 +131,7 @@
   * [应用机器学习](https://github.com/eugeneyan/applied-ml)<br>
   * [预训练语言模型](https://github.com/thunlp/PLMpapers)<br>
 * 平台工具类
+  * [【GitHub高质量项目】GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)<br>
   * [Anaconda download](https://www.anaconda.com/download)<br>
   * [Conda Docs](https://conda.io/en/latest/index.html)<br>
   * [VsCode](https://code.visualstudio.com/)<br>
