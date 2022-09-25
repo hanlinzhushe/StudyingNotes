@@ -252,6 +252,7 @@
   * [【PyTorch代码】动手学深度学习-李沐](https://github.com/ShusenTang/Dive-into-DL-PyTorch)<br>
   * [【中文版代码】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)<br>
   * [【英文版代码】动手学深度学习-李沐](https://github.com/d2l-ai/d2l-en)<br>
+  * [【学习笔记】动手学深度学习-李沐](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes)<br>
   * [【.py代码】动手学深度学习-李沐](https://github.com/Miraclelucy/dive_into_deep_learning)<br>
   * [【代码】深度学习实战](https://github.com/Jack-Cherish/Deep-Learning)<br>
   * [【代码】Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)<br>
