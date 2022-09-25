@@ -152,6 +152,7 @@
   * [图片风格转换](https://github.com/junyanz/CycleGAN)<br>
   * [PCL点云库](https://github.com/PointCloudLibrary/pcl)<br>
   * [Shap可视化工具](https://github.com/slundberg/shap)<br>
+  * [Shapash可视化工具](https://github.com/MAIF/shapash)<br>
   * [TreeExplainer](https://github.com/suinleelab/treeexplainer-study)<br>
   * [eCharts浏览器图表和可视化数据库](https://github.com/apache/echarts)<br>
   * [draw_convnet--Convolutional Neural Network画图脚本](https://github.com/gwding/draw_convnet)<br>
