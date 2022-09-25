@@ -104,7 +104,7 @@
   * [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)<br>
   * [yolov3_radar_fusion](https://github.com/ming845378603/yolov3_radar_fusion)<br>
   * [Radar+RGB Attentive Fusion For Robust Object Detection in Autonomous Vehicles](https://github.com/RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection)<br>
-  * []()<br>
+  * [RRPN: Radar Region Proposal Network for Sensor Fusion in Autonomous Vehicles](https://github.com/mrnabati/RRPN)<br>
 ## AI
 * AI学习路线
   * [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)<br>
