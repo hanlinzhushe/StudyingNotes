@@ -58,6 +58,7 @@
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
+  * [C++参考手册](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)<br>
   * [C++公开课-侯捷](https://search.bilibili.com/all?keyword=%E4%BE%AF%E6%8D%B7)<br>
   * [Linux命令大全（手册）](https://www.linuxcool.com/)<br>
   * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)<br>
