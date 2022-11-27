@@ -16,6 +16,7 @@
   * [【Unredacter】马赛克恢复工具](https://github.com/BishopFox/unredacter)<br>
   * [Image2LaTex](https://github.com/blaisewang/img2latex-mathpix)<br>
   * [Incopat专利分析工具](https://github.com/Michaeltose/situation_analysis)<br>
+  * [Patent Scraper](https://github.com/ryanlstevens/google_patent_scraper)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
