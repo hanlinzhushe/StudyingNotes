@@ -18,4 +18,5 @@
 ## 学区政策
 * [上海市教育委员会](http://edu.sh.gov.cn/jyzt_index/index.html)<br>
 * [2022年上海16区义务教育招生方案和细则](https://mp.weixin.qq.com/s/qShyxqlPaA9m0sNwLrewMQ)<br>
+* [2021年上海各区招生政策](https://edu.sh.gov.cn/gqzszc/)<br>
 
