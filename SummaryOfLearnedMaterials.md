@@ -23,4 +23,5 @@
 | 数学基础 | LDA/PCA | [线性判别分析（LDA）, 主成分分析(PCA)](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/08/lda-and-pca-machine-learning.html)<br>[特征提取/数据降维:PCA、LDA、MDS、LLE、TSNE等降维算法的python实现](https://github.com/heucoder/dimensionality_reduction_alo_codes)<br> | []() | []() |
 | 数据结构 | LeetCodeAnimation | [1、LeetCode动画教程](https://github.com/MisterBooo/LeetCodeAnimation)<br> | []() | []() |
 | Python | 可变与不可变数据类型 | [python的可变与不可变数据类型](https://www.cnblogs.com/big-devil/p/7625898.html) | []() | []() |
+| 并行化 | CPU并行 | [1、python for循环并行，单卡多卡并行解决办法](https://blog.csdn.net/weixin_43804047/article/details/128365062?spm=1001.2014.3001.5506)<br>[2、Python 实现 并行for循环](https://blog.csdn.net/qazwsxrx/article/details/127436885?spm=1001.2014.3001.5506)<br>[3、Python并行for循环例子](https://simonfan.blog.csdn.net/article/details/84975774?spm=1001.2014.3001.5506)<br> | []() | []() |
 | xxx | xxx | []() | []() | []() |
