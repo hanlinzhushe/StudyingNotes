@@ -14,12 +14,13 @@
 * [零跑汽车](https://www.leapmotor.com/home.html)<br>
 * [广汽埃安](https://www.aion.com.cn/)<br>
 * [东风岚图](https://www.voyah.com.cn/index.html)<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
+* [智己汽车](https://www.immotors.com/website/l7_detail)<br>
+* [哪吒汽车](https://www.hozonauto.com/)<br>
+* [极氪汽车](https://www.zeekrlife.com/home)<br>
+* [集度汽车](https://www.jidu.cn/)<br>
+* [小康汽车](https://www.dfdongfeng.com.cn/)<br>
+* [创维汽车](https://www.skyworthev.com/)<br>
+* [合创汽车](https://www.hycan.com.cn/)<br>
 # Decline Enterprises
 * []()<br>
 
