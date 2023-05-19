@@ -1,26 +1,12 @@
 # ---------------------------------------------------------
-# 卖房攻略
-## 市政规划
-* [上海市规划与自然资源局](https://ghzyj.sh.gov.cn/?medium=01&key2=%EF%BF%BD%EF%BF%BD%C3%AF%EF%BF%BD%EF%BF%BD|&category_path=01.00.00.00.00.00)<br>
-* [上海市各行政区国土空间总体规划](https://ghzyj.sh.gov.cn/ghjh/)<br>
-## 重点地区
-* 世博园区
-* 前滩
-* 黄浦江两岸
-* 徐汇滨江
-* 苏河湾
-* 北外滩
-* 张江科学城
-* 金色中环
-## 潜力板块
-* 
-## 核心指标
-* 常住人口规模：2020年≤2500W，2035年≈2500W，2050年≈2500W
-* 建设用地总规模：2020年3185平方公里,2035年3200平方公里
-* 耕地保有量：2020年282万亩，2035年180万亩
-* 城镇居住用地：2015年660平方公里，2035年830平方公里
-## 学区政策
-* [上海市教育委员会](http://edu.sh.gov.cn/jyzt_index/index.html)<br>
-* [2022年上海16区义务教育招生方案和细则](https://mp.weixin.qq.com/s/qShyxqlPaA9m0sNwLrewMQ)<br>
-* [2021年上海各区招生政策](https://edu.sh.gov.cn/gqzszc/)<br>
+# Leading Enterprises
+## Key Considerations
+* [Baidu Apollo](https://www.apollo.auto/aboutus)<br>
+* []()<br>
+## Potential Considerations
+* []()<br>
+* []()<br>
+* []()<br>
+# Decline Enterprises
+* []()<br>
 
