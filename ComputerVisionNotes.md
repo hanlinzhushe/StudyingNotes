@@ -225,6 +225,7 @@
 
 | 经典技术                                                         | 原理总结                         | 论文    | 代码(GitHub)    |
 | ------------------------------------------------------------ | --------------------------------------- | --------- | --------- |
+| 多目标跟踪经典资源 | [多目标跟踪经典资源](https://github.com/luanshiyinyang/awesome-multiple-object-tracking/blob/master/README-zh.md) | []() | []() |
 | Kalman Filter | [1、卡尔曼滤波工作原理（经典中文教程）](https://www.jianshu.com/p/42145f1077e5)<br>[2、卡尔曼滤波工作原理（经典英文教程）](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#more-491)<br>[3、卡尔曼滤波器--基础知识及公式推导](https://zhuanlan.zhihu.com/p/578920168)<br>[4、卡尔曼滤波实战-形象化理解卡尔曼滤波（附源码）](https://zhuanlan.zhihu.com/p/597605158)<br>[5、轻松理解卡尔曼滤波](https://zhuanlan.zhihu.com/p/444977764)<br> | []() | [1、Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)<br>[2、卡尔曼滤波实战-形象化理解卡尔曼滤波（附源码）](https://github.com/zeal-github/KalmanFilterTutorial)<br> |
 | 数据关联 | []() | [The probabilistic data association filter](https://ieeexplore.ieee.org/document/5338565) | []() |
 | SORT | []() | []() | [代码](https://github.com/abewley/sort) |
