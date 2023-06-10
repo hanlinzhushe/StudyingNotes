@@ -87,6 +87,7 @@
   * [Waymo Open Dataset](https://github.com/waymo-research/waymo-open-dataset)<br>
   * [BDD100K](https://github.com/bdd100k/bdd100k)<br>
   * [【K-Radar】4D Radar](https://github.com/kaist-avelab/K-Radar)<br>
+  * [【长尾及Corner Case数据集】OpenCC](https://github.com/Charmve/OpenCC)<br>
 * 机器视觉
   * [OpenCV中文教程](http://www.woshicver.com/)<br>
   * [OpenCV中文教程Github](https://github.com/fendouai/OpenCVTutorials)<br>
