@@ -19,6 +19,7 @@
   * [Patent Scraper](https://github.com/ryanlstevens/google_patent_scraper)<br>
   * [谷歌浏览器插件](https://github.com/wong2/chatgpt-google-extension)<br>
   * [ChatGPT](https://github.com/acheong08/ChatGPT)<br>
+  * [【Python内存监测工具】Memory Profiler](https://github.com/hanlinzhushe/memory_profiler)<br>
 * 公开课
   * [哔哩哔哩](https://www.bilibili.com/v/tech/computer_tech/#/1291647) <br>
   * [腾讯课堂](https://ke.qq.com/user/index/index.html#/signup)<br>
