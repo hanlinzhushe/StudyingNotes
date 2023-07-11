@@ -63,6 +63,7 @@
 * 谷歌镜像搜索
   *  [HIQQ学术搜索](https://so.hiqq.com.cn/)<br>
   *  [熊猫学术](https://sc.panda321.com/)<br>
+  *  [烂番薯学术](https://xueshu.lanfanshu.cn/schhp)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
