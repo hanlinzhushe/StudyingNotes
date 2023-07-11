@@ -64,6 +64,7 @@
   *  [HIQQ学术搜索](https://so.hiqq.com.cn/)<br>
   *  [熊猫学术](https://sc.panda321.com/)<br>
   *  [烂番薯学术](https://xueshu.lanfanshu.cn/schhp)<br>
+  *  [思谋学术【右侧学术资源有镜像链接】](https://ac.scmor.com/)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
