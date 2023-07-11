@@ -60,6 +60,8 @@
   * 【chrome论文插件】Find Code for Research Papers - CatalyzeX <br>
   * 【Chrome论文代码资源插件】Scholar with Code <br>
   * [【Image to Latex】](https://github.com/kingyiusuen/image-to-latex) <br>
+* 谷歌镜像搜索
+  *  [HIQQ学术搜索](https://so.hiqq.com.cn/)<br> 
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
