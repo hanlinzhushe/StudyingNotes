@@ -61,7 +61,8 @@
   * 【Chrome论文代码资源插件】Scholar with Code <br>
   * [【Image to Latex】](https://github.com/kingyiusuen/image-to-latex) <br>
 * 谷歌镜像搜索
-  *  [HIQQ学术搜索](https://so.hiqq.com.cn/)<br> 
+  *  [HIQQ学术搜索](https://so.hiqq.com.cn/)<br>
+  *  [熊猫学术](https://sc.panda321.com/)<br>
 ## 编程类
 * 语言类
   * [C++](http://www.cplusplus.com)<br>
